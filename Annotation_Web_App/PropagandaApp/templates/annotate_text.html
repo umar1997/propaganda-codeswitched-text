@@ -1,0 +1,373 @@
+{% extends "base.html" %}
+{%  block content %}
+    <div>
+
+        <h1> Annotate Text </h1>
+
+        <div style="width: 40%; float: left;">
+            <div>
+                <form>
+                    <div class="form-group row">
+                        <div>
+                            <input type="text" readonly class="form-control-plaintext" id="staticID" value="Example ID #">
+                        </div>
+                        <div id="count" style="margin-left: 10px; margin-top: 10px;">
+                            <p>Completed:       {{count}}</p>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div>
+                            <input type="text" class="form-control" id="inputID" placeholder="ID" size="4">
+                        </div>
+                        <input type="button" id="inputIDSubmit" value="Search" class="btn btn-primary mb-2" style="margin-left: 10px;">
+                        <div>
+                            <input type="text" readonly class="form-control-plaintext" value="Exclude (Red)"  style="margin-left: 50px;">
+                        </div>
+                        <box id="includedBox" onclick="includeSample(this)" style="background-color: #000000; margin-left: 10px; margin-top: 10px;"></box>
+                    </div>
+                </form>
+            </div>
+            <div class="form-outline">
+                <label class="form-label" for="textArea">Label Annotation Sentence</label>
+                <textarea placeholder="Enter Sentence Here" class="form-control" id="textArea" rows="8"></textarea>
+            </div>
+            <div class="form-group">
+                <input type="button" id="prevText" value="Prev" class="btn btn-outline-info" style="float: left; margin-top: 5px">
+                <input type="button" id="nextText" value="Next" class="btn btn-outline-info" style="float: right; margin-top: 5px">
+            </div>
+            <br>
+            <!-- Using pre as it gives pretty printing for JSON -->
+            <pre id="result"></pre>
+            <!-- <div>
+                <button type="submit" class="btn btn-primary btn-block mb-4" style="margin-top: 20px" onmousedown="getSelectedText()">
+                    Save Annotation
+                </button>
+            </div> -->
+            <div>
+                <button id="undoAnnotation" type="submit" class="btn btn-primary btn-block mb-4" style="margin-top: 20px">
+                    Undo Annotation
+                </button>
+            </div>
+            <div>
+                <button id="updateText" type="submit" class="btn btn-primary btn-block mb-4" style="margin-top: 20px">
+                    Update Text
+                </button>
+            </div>
+        </div>
+
+
+
+        <script type="text/javascript">
+
+            document.getElementById('inputIDSubmit').addEventListener('click', getIDInformation);
+            document.getElementById('prevText').addEventListener('click', getPreviousExample);
+            document.getElementById('nextText').addEventListener('click', getNextExample);
+            document.getElementById('undoAnnotation').addEventListener('click', undoAnnotation);
+            document.getElementById('updateText').addEventListener('click', updateText);
+
+            function includeSample(btn){
+
+                var inputIdEle = document.getElementById('inputID')
+                var textAreaEle = document.getElementById('textArea')
+
+                if(( inputIdEle.value != '') && (textAreaEle.value != '')){
+                    var xhr = new XMLHttpRequest();
+
+
+                    // If background colour is red
+                    if (btn.style["backgroundColor"] == "rgb(255, 0, 0)"){
+                        var package = "RED2WHITE" + "#####" + document.getElementById('inputID').value 
+                        xhr.open('POST', '/annotate', true);
+                        xhr.setRequestHeader('content-type', 'application/x-www-form-urlencoded;charset=UTF-8');
+                        xhr.send("includeSample=" + package);
+
+                    }
+                    // If background colour is white
+                    else if(btn.style["backgroundColor"] == "rgb(255, 255, 255)") {
+                        var package = "WHITE2RED" + "#####" + document.getElementById('inputID').value 
+                        xhr.open('POST', '/annotate', true);
+                        xhr.setRequestHeader('content-type', 'application/x-www-form-urlencoded;charset=UTF-8');
+                        xhr.send("includeSample=" + package);
+                        
+                    }
+                    else{
+                        console.log("Condition 10: Something is wrong with the colours.")
+                    }
+
+                    xhr.onload = function(){
+                        if(this.status == 200){ 
+                            if (btn.style["backgroundColor"] == "rgb(255, 0, 0)"){
+                                document.getElementById('includedBox').style.background = "#FFFFFF";
+                                // document.getElementById('includedBox').style.background = this.responseText
+                            }
+                            else if(btn.style["backgroundColor"] == "rgb(255, 255, 255)"){
+                                document.getElementById('includedBox').style.background = "#FF0000";
+                                // document.getElementById('includedBox').style.background = this.responseText
+                            }
+                        }
+                    }
+                
+                }
+                else{
+                    console.log("Condition: Input ID or Text Area is empty")
+                }
+
+
+                
+            }
+
+            function updateText(){
+                var inputIdEle = document.getElementById('inputID')
+                var textAreaEle = document.getElementById('textArea')
+
+                if(( inputIdEle.value != '') && (textAreaEle.value != '')){
+                    var xhr = new XMLHttpRequest();
+
+                    xhr.onload = function(){
+                        if(this.status == 200){ 
+
+                            var json_labels = JSON.parse(this.responseText)
+                            if(json_labels.labels == 'Empty'){
+                                console.log("Condition: No text was edited after Update text button press.")
+                            }
+                            else{
+                                document.getElementById('textArea').value = json_labels.text
+                                document.getElementById('result').innerHTML = JSON.stringify(json_labels, undefined, 2);
+                            }
+                            
+                        }
+                    }
+
+                    var package = document.getElementById('textArea').value + "#####" + document.getElementById('inputID').value 
+                    xhr.open('POST', '/annotate', true);
+                    xhr.setRequestHeader('content-type', 'application/x-www-form-urlencoded;charset=UTF-8');
+                    xhr.send("updateText=" + package);
+                }
+                else{
+                    console.log("Condition: Input ID or Text Area is empty")
+                }
+            }
+
+
+            function undoAnnotation() {
+                if(document.getElementById('inputID').value != ''){
+                    var xhr = new XMLHttpRequest();
+    
+                    xhr.onload = function(){
+                        if(this.status == 200){ 
+                            var json_labels = JSON.parse(this.responseText)
+                            document.getElementById('result').innerHTML = JSON.stringify(json_labels, undefined, 2);
+                        }
+                    }
+    
+                    var package = document.getElementById('inputID').value
+                    xhr.open('POST', '/annotate', true);
+                    xhr.setRequestHeader('content-type', 'application/x-www-form-urlencoded;charset=UTF-8');
+                    xhr.send("undoAnnotation=" + package);
+                }
+            }
+
+            function annotateText(btn) {
+                var selected_text = getSelectedText()
+                if ((!(selected_text == '')) && (document.getElementById('inputID').value != '')){
+
+                    var xhr = new XMLHttpRequest();
+
+                    xhr.onload = function(){
+                        if(this.status == 200){ 
+                            var json_labels = JSON.parse(this.responseText)
+                            if(json_labels.labels == 'Empty'){
+                                console.log('Condition 6: json_labels.labels == \'Empty\'')
+                                document.getElementById('inputID').value = ''
+                                document.getElementById('textArea').value = ''
+                                document.getElementById('result').innerHTML = ''
+                            }
+                            document.getElementById('result').innerHTML = JSON.stringify(json_labels, undefined, 2);
+                        }
+                    }
+
+                    var package = document.getElementById('inputID').value + "#####" + btn.id + "#####" +  selected_text
+                    xhr.open('POST', '/annotate', true);
+                    xhr.setRequestHeader('content-type', 'application/x-www-form-urlencoded;charset=UTF-8');
+                    xhr.send("annotateInfo=" + package);
+                }
+                else{
+                    console.log('Condition 5: (!(selected_text == \'\')) || (document.getElementById(\'inputID\').value != \'\')')
+                    document.getElementById('inputID').value = ''
+                    document.getElementById('textArea').value = ''
+                    document.getElementById('result').innerHTML = ''
+                }
+            }
+
+            function getSelectedText(){
+                var txtarea = document.getElementById("textArea");
+                var start = txtarea.selectionStart;
+                var finish = txtarea.selectionEnd;
+                var selected = txtarea.value.substring(start, finish);
+                return selected;
+            }
+
+            function changeJSON(oldJson){
+                var newJson = {};
+
+                newJson.id = oldJson.id
+                newJson.text = oldJson.text
+                newJson.labels = oldJson.labels
+                var bg_color = oldJson.colourBackground
+
+                return [newJson, bg_color];
+            }
+
+
+            function getIDInformation(e) {
+                e.preventDefault();
+                var xhr = new XMLHttpRequest();
+
+                xhr.onload = function(){
+                    if(this.status == 200){ 
+                        var old_info = JSON.parse(this.responseText)
+                        let packed = changeJSON(old_info);
+                        const id_info = packed[0],
+                        bg_color  = packed[1];
+                        if(id_info.labels == 'Empty'){
+                            console.log('Condition 1: id_info.labels == \'Empty\'')
+                            document.getElementById('inputID').value = ''
+                            document.getElementById('textArea').value = ''
+                            document.getElementById('result').innerHTML = ''
+                            document.getElementById('includedBox').style.background = "#000000"
+                        }
+                        else{
+                            document.getElementById('includedBox').style.background = bg_color
+                            document.getElementById('textArea').value = id_info.text
+                            document.getElementById('result').innerHTML =  JSON.stringify(id_info, undefined, 2);
+                        }
+                    }
+                }
+                var inputIDValue = document.getElementById('inputID').value
+                if (inputIDValue == '' || isNaN(inputIDValue)){
+                    console.log('Condition 4: inputIDValue == \'\' || isNaN(inputIDValue')
+
+                    document.getElementById('inputID').value = ''
+                    document.getElementById('textArea').value = ''
+                    document.getElementById('result').innerHTML = ''
+                    document.getElementById('includedBox').style.background = "#000000"
+                }
+                else{
+                    xhr.open('POST', '/annotate', true);
+                    xhr.setRequestHeader('content-type', 'application/x-www-form-urlencoded;charset=UTF-8');
+                    xhr.send("IDInformation=" + document.getElementById('inputID').value );
+                }
+                
+            }
+
+            function getPreviousExample(e){
+                e.preventDefault();
+                var xhr = new XMLHttpRequest();
+
+                xhr.onload = function(){
+                    if(this.status == 200){ 
+                        var old_info = JSON.parse(this.responseText)
+                        let packed = changeJSON(old_info);
+                        const id_info = packed[0],
+                        bg_color  = packed[1];
+                        document.getElementById('inputID').value = id_info.id
+                        document.getElementById('textArea').value = id_info.text
+                        document.getElementById('includedBox').style.background = bg_color
+                        
+                        if (id_info.labels == 'Empty'){
+                            console.log('Condition 2: id_info.labels == \'Empty\'')
+                            document.getElementById('result').innerHTML = ''
+                            document.getElementById('includedBox').style.background = "#000000"
+                        }
+                        else{
+                            document.getElementById('result').innerHTML =  JSON.stringify(id_info, undefined, 2);
+                        }
+                    }
+                }
+                var idValue = parseInt(document.getElementById('inputID').value)
+                if (!isNaN(idValue)){
+                    idValue = idValue - 1
+                    idValue.toString()
+                    
+                    xhr.open('POST', '/annotate', true);
+                    xhr.setRequestHeader('content-type', 'application/x-www-form-urlencoded;charset=UTF-8');
+                    xhr.send("IDInformation=" + idValue );
+                }
+            }
+
+            function getNextExample(e){
+                e.preventDefault();
+                var xhr = new XMLHttpRequest();
+
+                xhr.onload = function(){
+                    if(this.status == 200){ 
+                        var old_info = JSON.parse(this.responseText)
+                        let packed = changeJSON(old_info);
+                        const id_info = packed[0],
+                        bg_color  = packed[1];
+                        document.getElementById('inputID').value = id_info.id
+                        document.getElementById('textArea').value = id_info.text
+                        document.getElementById('includedBox').style.background = bg_color
+                        if (id_info.labels == 'Empty'){
+                            console.log('Condition 3: id_info.labels == \'Empty\'')
+                            document.getElementById('result').innerHTML = ''
+                            document.getElementById('includedBox').style.background = "#000000"
+                        }
+                        else{
+                            document.getElementById('result').innerHTML =  JSON.stringify(id_info, undefined, 2);
+                        }
+                    }
+                }
+                var idValue = parseInt(document.getElementById('inputID').value)
+                if (!isNaN(idValue)){
+                    idValue = idValue + 1
+                    idValue.toString()
+                    
+                    xhr.open('POST', '/annotate', true);
+                    xhr.setRequestHeader('content-type', 'application/x-www-form-urlencoded;charset=UTF-8');
+                    xhr.send("IDInformation=" + idValue );
+                }
+                else if (isNaN(idValue)){
+                    idValue = 1
+                    idValue.toString()
+                    
+                    xhr.open('POST', '/annotate', true);
+                    xhr.setRequestHeader('content-type', 'application/x-www-form-urlencoded;charset=UTF-8');
+                    xhr.send("IDInformation=" + idValue );
+                }
+            }
+
+        </script>
+
+
+        <div style="width: 50%; float: right;">
+            <style>
+                box {
+                    float: left;
+                    height: 20px;
+                    width: 20px;
+                    border: 0.2px solid black;
+                    clear: both;
+                    }
+            </style>
+            <ul class="list-group" style="width: 50%; float: left;">
+                {%for i in range(0, length_1)%}
+                    <div class="list-group-item">
+                        <box id="{{techniques_1[i]}}" onclick="annotateText(this)" style="background-color: {{color_1[i]}};"></box> 
+                        <p style="padding-left: 30px;">{{techniques_1[i]}}</p>
+                    </div>
+                {%endfor%}
+            </ul>
+            <ul class="list-group" style="width: 50%; right: left; padding-left: 10px;">
+                {%for i in range(0, length_2)%}
+                    <div class="list-group-item">
+                        <box id="{{techniques_2[i]}}" onclick="annotateText(this)" style="background-color: {{color_2[i]}};"></box> 
+                        <p style="padding-left: 30px;">{{techniques_2[i]}}</p>
+                    </div>
+                {%endfor%}
+            </ul>
+            <!-- <box id="checkBox1" style="background-color: #cc9900;"></box> -->
+        </div>
+
+    </div>
+{%  endblock %}

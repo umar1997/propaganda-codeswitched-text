@@ -1,0 +1,6 @@
+ID,TEXT,LABELS
+1,The one brown fox jumped over the lazy mammal,"{'id': '1', 'text': 'The one brown fox jumped over the lazy mammal', 'labels': []}"
+2,The two brown fox jumped over the lazy dog,
+3,The three quick brown mice jumped over the lazy dog,"{'id': '3', 'text': 'The three quick brown mice jumped over the lazy dog', 'labels': []}"
+4,The four brown fox jumped over the lazy dog,"{'id': '4', 'text': 'The four brown fox jumped over the lazy dog', 'labels': []}"
+4,The five brown fox jumped over the lazy dog,

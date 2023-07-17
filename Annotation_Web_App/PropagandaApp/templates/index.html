@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{%  block content %}
+  <div class="jumbotron" style="text-align: center;">
+    <h1 > Propaganda Detection and Annotation </h1>
+  </div>
+  <div style="text-align: center;">
+    <p>This website allows you to both Detect Propaganda as well as Annotate Text Examples according to the Propaganda Techniques.</p>
+    <p>In this thesis we discuss propaganda as a form of communication aimed at influencing the
+      opinions and behavior of a target audience towards a particular agenda. With the rise of the internet
+      and social media platforms, the spread of propaganda has become widespread and can have a
+      significant impact on individuals' attitudes and behavior. Most propaganda detection work has
+      been done on high-resourced languages, such as English, leaving low-resourced languages, such
+      as Roman Urdu, largely unexplored. Code-switching, which involves mixing multiple languages
+      in the same text, is common in low-resourced language communities and can make propaganda
+      detection more challenging. We propose a novel NLP task of detecting propaganda techniques
+      in code-switched data involving English and Roman Urdu. To support this task, we create a
+      corpus of 1030 code-switched texts and manually annotate them with 20 propaganda techniques.
+      Additionally, we developed a web-based annotation platform to facilitate the annotation process.
+      This platform has a user interface to detect propaganda on text and allows for annotation of
+      propaganda techniques on specific spans of text. We run experiments using several pre-trained
+      multilingual and cross-lingual language models and evaluated their performances. We find that
+      XLM RoBERTa fine-tuned on Roman Urdu outperforms all other baseline NLP models on our
+      task and dataset. Our work represents a significant contribution to the field of NLP and the study
+      of propaganda detection.</p>
+  </div>
+  <div>
+    <img src="https://drive.google.com/uc?export=view&id=1eCsjNAtjXuXfqBLxeEnsBpOikUO06msr" style=" display: block; margin-left: auto; margin-right: auto; width: 50%; bottom: 10px;">
+    
+  </div>
+{%  endblock %}

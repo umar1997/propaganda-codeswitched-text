@@ -1,0 +1,116 @@
+{% extends "base.html" %}
+{%  block content %}
+    <div>
+        <h1> Propaganda Detection </h1>
+        <br>
+        <br>
+        <div style="width: 40%; float: left;">
+            <div>
+                <form class="form-group" id="postForm" method="POST">
+
+                    <div class="form-group">
+                        <label class="form-control-label">Detect Propaganda Technique For Your Sentence</label>
+                        <input type="text" class="form-control" id="sentence" value="" placeholder="Enter sentence here" height="100" width="100"/>
+                    </div>
+                    <div class="form-group">
+                            <input type="button" id="showtext" value="Detect" class="btn btn-outline-info" style="float: left;">
+                            <input type="button" id="getrandom" value="Random" class="btn btn-outline-info" style="float: left; margin-left: 10px;">
+                            <input type="button" id="clearPage" value="Clear" class="btn btn-outline-info" style="float: right;">
+                    </div>
+                </form>
+            </div>
+            <br>
+            <br>
+            <br>
+            <div id="result"></div>
+
+        </div>
+        <script type="text/javascript">
+
+            document.getElementById('showtext').addEventListener('click', showText);
+            document.getElementById('getrandom').addEventListener('click', getRandom);
+            document.getElementById('clearPage').addEventListener('click', clearText);
+            
+            function clearText(){
+
+                document.getElementById('sentence').value = '';
+                document.getElementById('result').innerHTML = '';
+
+            }
+
+
+            function getRandom(e){
+                e.preventDefault();
+                var xhr = new XMLHttpRequest();
+                var inputField = document.getElementById('sentence');
+                
+                xhr.onload = function(){
+                    if(this.status == 200){ 
+                        inputField.value = this.responseText;
+                    }
+                    
+                }
+
+                xhr.open('POST', '/detect', true);
+                xhr.setRequestHeader('content-type', 'application/x-www-form-urlencoded;charset=UTF-8');
+                xhr.send("sentence=" + "random_sample");
+            }
+
+
+            function showText(e) {
+              e.preventDefault();
+              var xhr = new XMLHttpRequest();
+              var result = document.getElementById('result');
+    
+              xhr.onload = function(){
+                if(this.status == 200){ 
+                    var final_output = JSON.parse(this.responseText)
+                    var output = '';
+                    output +=  '<p>' 
+                    for(var i in final_output){
+                        if(final_output[i].colour == 'None'){
+                            output += final_output[i].phrase
+                        }
+                        else{
+                            output += '<mark style="background-color: ' + final_output[i].colour + '; color: white;">' + final_output[i].phrase + '</mark>'
+                        }
+                    }
+                    output += '</p>';
+                    result.innerHTML = output;
+                  }
+              }
+      
+              xhr.open('POST', '/detect', true);
+              xhr.setRequestHeader('content-type', 'application/x-www-form-urlencoded;charset=UTF-8');
+              xhr.send("result=" + document.getElementById('sentence').value);
+            }
+        </script>
+        <div style="width: 50%; float: right;">
+            <style>
+                box {
+                    float: left;
+                    height: 20px;
+                    width: 20px;
+                    border: 0.2px solid black;
+                    clear: both;
+                    }
+            </style>
+            <ul class="list-group" style="width: 50%; float: left;">
+                {%for i in range(0, length_1)%}
+                    <div class="list-group-item">
+                        <box style="background-color: {{color_1[i]}};"></box> 
+                        <p style="padding-left: 30px;">{{techniques_1[i]}}</p>
+                    </div>
+                {%endfor%}
+            </ul>
+            <ul class="list-group" style="width: 50%; right: left; padding-left: 10px;">
+                {%for i in range(0, length_2)%}
+                    <div class="list-group-item">
+                        <box style="background-color: {{color_2[i]}};"></box> 
+                        <p style="padding-left: 30px;">{{techniques_2[i]}}</p>
+                    </div>
+                {%endfor%}
+            </ul>
+        </div>
+    </div>
+{%  endblock %}

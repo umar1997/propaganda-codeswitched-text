@@ -1,0 +1,23 @@
+{
+    "#FF0000": "Appeal to fear/prejudice",
+    "#00FFFF": "Appeal to authority",
+    "#0000FF": "Whataboutism",
+    "#ADD8E6": "Slogans",
+    "#800080": "Exaggeration/Minimisation",
+    "#000000": "Loaded Language",
+    "#00FF00": "Smears",
+    "#FF00FF": "Black-and-white Fallacy/Dictatorship",
+    "#FFC0CB": "Presenting Irrelevant Data (Red Herring)",
+    "#808080": "Obfuscation, Intentional vagueness, Confusion",
+    "#ffcc66": "Name calling/Labeling",
+    "#A52A2A": "Reductio ad hitlerum",
+    "#008000": "Bandwagon",
+    "#808000": "Repetition",
+    "#336699": "Doubt",
+    "#ff9900": "Flag-waving",
+    "#ffff99": "Causal Oversimplification",
+    "#9900ff": "Thought-terminating cliché",
+    "#6666ff": "Glittering generalities (Virtue)",
+    "#cc9900": "Misrepresentation of Someone's Position (Straw Man)",
+    "None": "O"
+}

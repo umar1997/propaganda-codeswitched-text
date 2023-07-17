@@ -1,0 +1,8 @@
+{
+    "id2techniques": "./PropagandaApp/detection/id2techniques.json",
+    "colour2techniques": "./PropagandaApp/detection/colour2techniques.json",
+    "checkpoint_model": "bert-base-cased",
+    "checkpoint_tokenizer": "bert-base-cased",
+    "model_path": "./PropagandaApp/model_files/model_bert.pt",
+    "tokenizer_path": "./PropagandaApp/model_files/tokenizer/"
+}

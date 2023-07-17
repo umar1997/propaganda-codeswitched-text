@@ -1,0 +1,22 @@
+{
+    "Obfuscation, Intentional vagueness, Confusion": 1,
+    "Appeal to fear/prejudice": 2,
+    "Appeal to authority": 3,
+    "Whataboutism": 4,
+    "Slogans": 5,
+    "Exaggeration/Minimisation": 6,
+    "Loaded Language": 7,
+    "Smears": 8,
+    "Doubt": 9,
+    "Bandwagon": 10,
+    "Name calling/Labeling": 11,
+    "Reductio ad hitlerum": 12,
+    "Presenting Irrelevant Data (Red Herring)": 13,
+    "Repetition": 14,
+    "Misrepresentation of Someone's Position (Straw Man)": 15,
+    "Thought-terminating cliché": 16,
+    "Glittering generalities (Virtue)": 17,
+    "Flag-waving": 18,
+    "Causal Oversimplification": 19,
+    "Black-and-white Fallacy/Dictatorship": 20
+}
