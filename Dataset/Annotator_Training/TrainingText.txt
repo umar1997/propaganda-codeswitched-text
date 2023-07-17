@@ -1,0 +1,120 @@
+YOU CAN'T GET RICH IN POLITICS UNLESS YOU'RE A CROOK WE KNOW
+
+[""YOU CAN'T GET RICH IN POLITICS UNLESS YOU'RE A CROOK"", 'WE KNOW']","['Causal Oversimplification', 'Thought-terminating cliché']
+['CROOK', 'WE KNOW']","['Loaded Language', 'Thought-terminating cliché']
+['CROOK', 'WE KNOW']","['Name calling/Labeling', 'Thought-terminating cliché']
+['WE KNOW', 'HARRY S. TRUMAN ""YOU CAN\'T GET RICH IN POLITICS UNLESS YOU\'RE A CROOK.""']
+
+#########################################################################
+IF THE MEDIA WILL LIE ABOUT THIS WHAT ELSE ARE THEY LYING ABOUT?
+
+['IF THE MEDIA WILL LIE ABOUT THIS WHAT ELSE ARE THEY LYING ABOUT?'],['Doubt']
+
+#########################################################################
+IMAGINE IF 50 MILLION BABIES WERE ALLOWED DYING WISHES
+
+['DYING WISHES'],['Loaded Language']
+
+#########################################################################
+If a law is unjust, a man is not only right to disobey it, he is obligated to do so. -Thomas Jefferson
+
+['unjust', 'disobey']","['Loaded Language', 'Loaded Language']
+['If a law is unjust, a man is not only right to disobey it, he is obligated to do so']",['Black-and-white Fallacy/Dictatorship']
+['If a law is unjust, a man is not only right to disobey it, he is obligated to do so."" -Thomas Jefferson']",['Appeal to authority']
+
+#########################################################################
+He cheats at golf. He cheated the draft. He cheats on his taxes. He cheated on his wives. He cheated on his loans. He cheated his charities. He cheated his contractors. He cheated Trump U students. He cheated to get elected in 2016. He will cheat again in 2020!
+
+['He cheated', 'He cheats', 'He cheated', 'He cheated', 'He cheated', 'He cheated', 'He cheated', 'He cheated', 'He will cheat']","['Repetition', 'Repetition', 'Repetition', 'Repetition', 'Repetition', 'Repetition', 'Repetition', 'Repetition', 'Repetition']
+
+#########################################################################
+THERE ARE ONLY TWO GENDERS FEMALE MALE
+
+['THERE ARE ONLY TWO GENDERS FEMALE MALE'],['Black-and-white Fallacy/Dictatorship']
+
+#########################################################################
+A society that keeps cures a secret, in an effort to sell medications for huge profits, is not a civilised society; it is a mental institution ruled over by phsychopaths.
+
+['civilised society', 'mental institution ruled over by phsychopaths']","['Name calling/Labeling', 'Name calling/Labeling']
+['civilised society', 'phsychopaths']","['Name calling/Labeling', 'Loaded Language']
+#########################################################################
+Yes, Mr. Trump, let's make America great again. But first, get one thing straight: America was great - before you were elected. Barbra Streisand
+
+[""let's make America great again""]",['Slogans']
+[""let's make America great again""]",['Flag-waving']
+['""Yes, Mr. Trump, let\'s make America great again. But first, get one thing straight: America was great - before you were elected."" Barbra Streisand']",['Smears']
+#########################################################################
+COVID-19 is everywhere but countries with heads of state managing the crisis better seem to have something in common.. GERMANY NEW ZEALAND BELGIUM FINLAND ICELAND DENMARK
+
+[],[],
+#########################################################################
+I'm not pregnant, I haven't been tested. But the President says if it's not tested it's not real. I think it's gas...
+
+[""I think it's gas...""]",['Exaggeration/Minimisation']
+[""I'm not pregnant, I haven't been tested. But the President says if it's not tested it's not real. I think it's gas...""]",['Smears']
+#########################################################################
+WHO SHIT MY PANTS?
+
+['SHIT'],['Loaded Language']
+#########################################################################
+YOU ARE NOT FOR WOMEN'S RIGHTS IF YOU WANT TO STRIP THEM OF THEIR RIGHT TO SELF DEFENSE
+
+[""YOU ARE NOT FOR WOMEN'S RIGHTS IF YOU WANT TO STRIP THEM OF THEIR RIGHT TO SELF DEFENSE"", 'STRIP THEM OF THEIR RIGHT']","['Presenting Irrelevant Data (Red Herring)', 'Loaded Language']
+#########################################################################
+AMERICA WAS FOUNDED BY TOUGH HELL-RAISERS. Rugged citizens who evaded taxes, spoke strongly against tyranny, grew tobacco, brewed beer and spirits, and smuggled weapons. And it will be saved only by those same types of citizens.
+
+['TOUGH HELL-RAISERS', 'Rugged citizens', 'tyranny', 'smuggled weapons']","['Loaded Language', 'Name calling/Labeling', 'Loaded Language', 'Loaded Language']
+['TOUGH HELL-RAISERS', 'Rugged citizens', 'tyranny', 'smuggled weapons']","['Name calling/Labeling', 'Name calling/Labeling', 'Loaded Language', 'Loaded Language']
+['Rugged citizens', 'tyranny', 'smuggled weapons', 'AMERICA WAS FOUNDED BY TOUGH HELL-RAISERS']","['Name calling/Labeling', 'Loaded Language', 'Loaded Language', 'Flag-waving']
+#########################################################################
+To conquer a nation, First disarm it's citizens"" - Adolf Hitler, I933
+
+['“To conquer a nation, First disarm it\'s citizens"" - Adolf Hitler']",['Appeal to authority']
+#########################################################################
+The Police are the enemy! Absolutely Defund Them. Words only a criminal would say! BACK the BLUE TRUMP 2020 KEEP AMERICA GREAT
+
+['enemy', 'BACK the BLUE', 'KEEP AMERICA GREAT']","['Loaded Language', 'Slogans', 'Flag-waving']
+['enemy', 'BACK the BLUE', 'KEEP AMERICA GREAT']","['Loaded Language', 'Slogans', 'Slogans']
+#########################################################################
+YOU NEED TO TRUST SCIENCE ASSHOLE! OK. HOW MANY GENDERS ARE THERE?
+
+['YOU NEED TO TRUST SCIENCE ASSHOLE!', 'ASSHOLE', 'HOW MANY GENDERS ARE THERE?']","['Black-and-white Fallacy/Dictatorship', 'Loaded Language', 'Doubt']
+#########################################################################
+AMERICAN EXPERIENCE THE GREAT WAR
+
+[], []
+#########################################################################
+NOW MORE THAN EVER
+
+['NOW MORE THAN EVER'],['Exaggeration/Minimisation']
+#########################################################################
+LIBERALS WOULD RATHER DIE THAN TRY HYDROXYCHLOROQUINE? LET THEM. IT'S CALLED NATURAL SELECTION
+
+[""LET THEM. IT'S CALLED NATURAL SELECTION"", 'LIBERALS WOULD RATHER DIE THAN TRY HYDROXYCHLOROQUINE?', ""LIBERALS WOULD RATHER DIE THAN TRY HYDROXYCHLOROQUINE? LET THEM. IT'S CALLED NATURAL SELECTION""]","['Thought-terminating cliché', ""Misrepresentation of Someone's Position (Straw Man)"", 'Smears']
+#########################################################################
+KENTUCKY VOTERS HAVE A RIGHT KNOW WHAT'S WRONG WITH MITCH MCCONNELL'S HEALTH BEFORE THE ELECTION. PERIOD.
+
+['PERIOD.'],['Thought-terminating cliché']
+#########################################################################
+An app to trace movements of COVID positive people? Where are the apps tracking PEDOPHILES and RAPISTS?!
+
+['PEDOPHILES and RAPISTS', 'PEDOPHILES and RAPISTS', 'An app to trace movements of COVID positive people? Where are the apps tracking PEDOPHILES and RAPISTS?!']","['Loaded Language', 'Name calling/Labeling', 'Whataboutism']
+#########################################################################
+We put together I think the most extensive and inclusive voter fraud organization in the history of American politics."" -Joe Biden
+
+['""We put together I think the most extensive and inclusive voter fraud organization in the history of American politics."" -Joe Biden', 'the most extensive and inclusive voter fraud organization in the history of American politics', 'the most extensive and inclusive voter fraud organization in the history of American politics', 'voter fraud']","['Obfuscation, Intentional vagueness, Confusion', 'Name calling/Labeling', 'Exaggeration/Minimisation', 'Loaded Language']
+#########################################################################
+WHEN DID AMERICA STOP BEING GREAT ? WHEN THIS CLOWN WAS ELECTED TWICE !
+
+['WHEN DID AMERICA STOP BEING GREAT ? WHEN THIS CLOWN WAS ELECTED TWICE !'],['Causal Oversimplification']
+['WHEN DID AMERICA STOP BEING GREAT ? WHEN THIS CLOWN WAS ELECTED TWICE !'],['Smears']
+['CLOWN'],['Name calling/Labeling']
+#########################################################################
+SHOW ME A MAN THAT GETS RICH BY BEING A POLITICIAN, AND I'LL SHOW YOU A CROOK."" -HARRY S. TRUMAN MAKIN' IT RAIN
+
+['""SHOW ME A MAN THAT GETS RICH BY BEING A POLITICIAN, AND I\'LL SHOW YOU A CROOK."" -HARRY S. TRUMAN', 'CROOK', 'CROOK', ""MAKIN' IT RAIN""]","['Appeal to authority', 'Name calling/Labeling', 'Loaded Language', 'Slogans']
+#########################################################################
+What do AOC, Pelosi, McConnell, and Pence all have in common? They know the COVID vaccine is safe and effective.
+
+['What do AOC, Pelosi, McConnell, and Pence all have in common? They know the COVID vaccine is safe and effective', 'COVID vaccine is safe and effective', 'safe and effective', 'What do AOC, Pelosi, McConnell, and Pence all have in common? They know the COVID vaccine is safe and effective']","['Appeal to authority', 'Name calling/Labeling', 'Loaded Language', 'Bandwagon']
+#########################################################################
