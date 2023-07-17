@@ -1,0 +1,57 @@
+[WARNING] - META - domain_type: CS
+[WARNING] - META - model_run: DEBERTA_V3
+[WARNING] - META - model_type: microsoft/deberta-v3-small
+[WARNING] - META - tokenizer_type: microsoft/deberta-v3-small
+[WARNING] - META - training: False
+[WARNING] - META - max_seq_length: 256
+[WARNING] - META - random_seed: 42
+[WARNING] - META - training_batch_size: 16
+[WARNING] - META - validation_batch_size: 16
+[WARNING] - META - learning_rate: 3e-05
+[WARNING] - META - epsilon: 1e-08
+[WARNING] - META - weight_decay: 0.1
+[WARNING] - META - epochs: 10
+[WARNING] - META - scheduler: LinearWarmup
+[WARNING] - META - optimizer: AdamW
+[WARNING] - META - max_grad_norm: 1.0
+[WARNING] - META - full_finetuning: True
+[WARNING] - META - debugging: False
+[WARNING] - META - log_file: ./Log_Files/DEBERTA_V3-Inference
+[WARNING] - META - datetime: 18-06-2023_17:29:46
+
+[WARNING] - META - Training Datatset: 786
+[WARNING] - META - Validation Datatset: 89
+[WARNING] - META - Testing Datatset: 155
+[CRITICAL] - PORGRESS - 18-06-2023 17:29:46 - Starting Inference
+[INFO] - RESULTS - inference.py.<118> - Validation Hamming Score: 0.30721966205837176  |  Validation Exact Match Ratio: 0.09032258064516129 |  Validation Accuracy Score: 0.895483870967742
+[INFO] - RESULTS - inference.py.<119> - Classification Report:
+[INFO] - RESULTS - inference.py.<120> - 
+                                                     precision    recall  f1-score   support
+
+                                    Loaded Language       0.61      0.81      0.70        68
+      Obfuscation, Intentional vagueness, Confusion       1.00      0.00      0.00         2
+                           Appeal to fear/prejudice       0.40      0.27      0.32        15
+                                Appeal to authority       1.00      0.00      0.00         2
+                                       Whataboutism       0.00      0.00      0.00         6
+                                            Slogans       0.00      0.00      0.00         7
+                          Exaggeration/Minimisation       0.52      0.25      0.34        51
+               Black-and-white Fallacy/Dictatorship       1.00      0.20      0.33         5
+                                             Smears       0.51      0.46      0.48        57
+                                              Doubt       0.33      0.17      0.22         6
+                                          Bandwagon       1.00      0.00      0.00         1
+                              Name calling/Labeling       0.51      0.62      0.56        61
+                               Reductio ad hitlerum       1.00      0.00      0.00         3
+           Presenting Irrelevant Data (Red Herring)       0.00      0.00      0.00         9
+                                         Repetition       1.00      0.00      0.00         2
+Misrepresentation of Someone's Position (Straw Man)       1.00      0.00      0.00         3
+                         Thought-terminating cliché       0.00      0.00      0.00         6
+                   Glittering generalities (Virtue)       0.33      0.17      0.22         6
+                                        Flag-waving       0.00      0.00      0.00         6
+                          Causal Oversimplification       0.33      0.08      0.12        13
+
+                                          micro avg       0.51      0.43      0.46       329
+                                          macro avg       0.53      0.15      0.17       329
+                                       weighted avg       0.49      0.43      0.42       329
+                                        samples avg       0.57      0.45      0.39       329
+
+[CRITICAL] - PORGRESS - 18-06-2023 17:35:19 - Inference Complete

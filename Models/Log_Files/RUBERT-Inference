@@ -1,0 +1,57 @@
+[WARNING] - META - domain_type: CS
+[WARNING] - META - model_run: RUBERT
+[WARNING] - META - model_type: ./Model_Files/RUBERT-checkpoint
+[WARNING] - META - tokenizer_type: ./Model_Files/RUBERT-checkpoint
+[WARNING] - META - training: False
+[WARNING] - META - max_seq_length: 256
+[WARNING] - META - random_seed: 42
+[WARNING] - META - training_batch_size: 16
+[WARNING] - META - validation_batch_size: 16
+[WARNING] - META - learning_rate: 3e-05
+[WARNING] - META - epsilon: 1e-08
+[WARNING] - META - weight_decay: 0.1
+[WARNING] - META - epochs: 10
+[WARNING] - META - scheduler: LinearWarmup
+[WARNING] - META - optimizer: AdamW
+[WARNING] - META - max_grad_norm: 1.0
+[WARNING] - META - full_finetuning: True
+[WARNING] - META - debugging: False
+[WARNING] - META - log_file: ./Log_Files/RUBERT-Inference
+[WARNING] - META - datetime: 09-03-2023_18:05:04
+
+[WARNING] - META - Training Datatset: 786
+[WARNING] - META - Validation Datatset: 89
+[WARNING] - META - Testing Datatset: 155
+[CRITICAL] - PORGRESS - 09-03-2023 18:05:05 - Starting Inference
+[INFO] - RESULTS - inference.py.<116> - Validation Hamming Score: 0.280752688172043  |  Validation Exact Match Ratio: 0.08387096774193549 |  Validation Accuracy Score: 0.8919354838709678
+[INFO] - RESULTS - inference.py.<117> - Classification Report:
+[INFO] - RESULTS - inference.py.<118> - 
+                                                     precision    recall  f1-score   support
+
+                                    Loaded Language       0.62      0.60      0.61        68
+      Obfuscation, Intentional vagueness, Confusion       0.00      0.00      0.00         2
+                           Appeal to fear/prejudice       0.00      0.00      0.00        15
+                                Appeal to authority       0.00      0.00      0.00         2
+                                       Whataboutism       0.00      0.00      0.00         6
+                                            Slogans       0.00      0.00      0.00         7
+                          Exaggeration/Minimisation       0.44      0.43      0.44        51
+               Black-and-white Fallacy/Dictatorship       0.00      0.00      0.00         5
+                                             Smears       0.53      0.44      0.48        57
+                                              Doubt       0.00      0.00      0.00         6
+                                          Bandwagon       0.00      0.00      0.00         1
+                              Name calling/Labeling       0.48      0.43      0.45        61
+                               Reductio ad hitlerum       0.00      0.00      0.00         3
+           Presenting Irrelevant Data (Red Herring)       0.00      0.00      0.00         9
+                                         Repetition       0.00      0.00      0.00         2
+Misrepresentation of Someone's Position (Straw Man)       0.00      0.00      0.00         3
+                         Thought-terminating cliché       0.00      0.00      0.00         6
+                   Glittering generalities (Virtue)       0.00      0.00      0.00         6
+                                        Flag-waving       0.00      0.00      0.00         6
+                          Causal Oversimplification       0.00      0.00      0.00        13
+
+                                          micro avg       0.49      0.35      0.40       329
+                                          macro avg       0.10      0.09      0.10       329
+                                       weighted avg       0.38      0.35      0.36       329
+                                        samples avg       0.38      0.30      0.32       329
+
+[CRITICAL] - PORGRESS - 09-03-2023 18:05:12 - Inference Complete

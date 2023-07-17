@@ -1,0 +1,3503 @@
+{
+    "31": {
+        "id": "31",
+        "text": "Crypto currency is the biggest scam. Logon ko lootne ki nayi scheme hai aur kuch nhi",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "35",
+                "text_fragment": "Crypto currency is the biggest scam",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "0",
+                "end_index": "84",
+                "text_fragment": "Crypto currency is the biggest scam. Logon ko lootne ki nayi scheme hai aur kuch nhi",
+                "technique": "Black-and-white Fallacy/Dictatorship"
+            },
+            {
+                "start_index": "31",
+                "end_index": "35",
+                "text_fragment": "scam",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "46",
+                "end_index": "52",
+                "text_fragment": "lootne",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "Cryptocurrency is the biggest scam. There is a new scheme to steal logon and nothing else."
+    },
+    "870": {
+        "id": "870",
+        "text": "Is he also billionaire n will he stay in Pak sar zameen ya kafir logo ke mulk mein ?",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "84",
+                "text_fragment": "Is he also billionaire n will he stay in Pak sar zameen ya kafir logo ke mulk mein ?",
+                "technique": "Black-and-white Fallacy/Dictatorship"
+            },
+            {
+                "start_index": "59",
+                "end_index": "69",
+                "text_fragment": "kafir logo",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "Is he also a billionaire and will he live in the holy land or in the land of unbelievers?"
+    },
+    "318": {
+        "id": "318",
+        "text": "These religious fanatics even have a problem with illustrations in biology books.Kachra bhara hua hai dimag mein.Phir Islamophobia ka rona rote.",
+        "labels": [
+            {
+                "start_index": "118",
+                "end_index": "130",
+                "text_fragment": "Islamophobia",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "6",
+                "end_index": "24",
+                "text_fragment": "religious fanatics",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "These religious zealots also have a problem with the examples given in biology books, garbage filled brains."
+    },
+    "535": {
+        "id": "535",
+        "text": "Islam ka naam le ke jhoot aur faraib tum phelao, honour killing pe tum khamosh raho, mob lynchings aur rapes se zyada valentines day pe tum rola dalo, magar behaya aurat march walay? lmaoooooo",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "182",
+                "text_fragment": "Islam ka naam le ke jhoot aur faraib tum phelao, honour killing pe tum khamosh raho, mob lynchings aur rapes se zyada valentines day pe tum rola dalo, magar behaya aurat march walay?",
+                "technique": "Whataboutism"
+            },
+            {
+                "start_index": "0",
+                "end_index": "149",
+                "text_fragment": "Islam ka naam le ke jhoot aur faraib tum phelao, honour killing pe tum khamosh raho, mob lynchings aur rapes se zyada valentines day pe tum rola dalo",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "0",
+                "end_index": "182",
+                "text_fragment": "Islam ka naam le ke jhoot aur faraib tum phelao, honour killing pe tum khamosh raho, mob lynchings aur rapes se zyada valentines day pe tum rola dalo, magar behaya aurat march walay?",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "103",
+                "end_index": "108",
+                "text_fragment": "rapes",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "20",
+                "end_index": "36",
+                "text_fragment": "jhoot aur faraib",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "49",
+                "end_index": "63",
+                "text_fragment": "honour killing",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "85",
+                "end_index": "98",
+                "text_fragment": "mob lynchings",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "You play lies and deceit in the name of Islam, you keep silent on killing in the name of honor, you roll on Valentine's Day more than mob lynching and rap, but what about women marchers? lmaooooo"
+    },
+    "919": {
+        "id": "919",
+        "text": "Pakistan has just 2 class you are either super rich or super poor. Baat khatam",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "66",
+                "text_fragment": "Pakistan has just 2 class you are either super rich or super poor.",
+                "technique": "Black-and-white Fallacy/Dictatorship"
+            },
+            {
+                "start_index": "67",
+                "end_index": "78",
+                "text_fragment": "Baat khatam",
+                "technique": "Thought-terminating clich\u00e9"
+            }
+        ],
+        "translation": "There are only 2 classes in Pakistan, you are either extremely rich or extremely poor. End of the matter"
+    },
+    "596": {
+        "id": "596",
+        "text": "Zindabaad dear bhutto esy he chlty rhoo. pti ko tabah barbad krdo we want you in govt",
+        "labels": [
+            {
+                "start_index": "48",
+                "end_index": "60",
+                "text_fragment": "tabah barbad",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "Long live my dear Bhutto. pti ko tabah barbad krdo we want you in government."
+    },
+    "107": {
+        "id": "107",
+        "text": "This shameless man is mocking Bilawal on his accent, jahil Oxford graduate khud toh tuhje Urdu ki alif bay nhi aati. Aya bara.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "115",
+                "text_fragment": "This shameless man is mocking Bilawal on his accent, jahil Oxford graduate khud toh tuhje Urdu ki alif bay nhi aati",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "117",
+                "end_index": "125",
+                "text_fragment": "Aya bara",
+                "technique": "Thought-terminating clich\u00e9"
+            },
+            {
+                "start_index": "5",
+                "end_index": "18",
+                "text_fragment": "shameless man",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "53",
+                "end_index": "74",
+                "text_fragment": "jahil Oxford graduate",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "53",
+                "end_index": "115",
+                "text_fragment": "jahil Oxford graduate khud toh tuhje Urdu ki alif bay nhi aati",
+                "technique": "Exaggeration/Minimisation"
+            }
+        ],
+        "translation": "This shameless man is making fun of Bilawal on his accent, the ignorant Oxford graduate himself is not able to read the alphabet of Urdu. There is a bar."
+    },
+    "853": {
+        "id": "853",
+        "text": "World is going for technology and Pakistan is still waiting and thinking and being blackmailed by mafia. Atleast youth chars nae bech raha trade kr raha hay and faida Pakistan ka hora.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "104",
+                "text_fragment": "World is going for technology and Pakistan is still waiting and thinking and being blackmailed by mafia.",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "0",
+                "end_index": "184",
+                "text_fragment": "World is going for technology and Pakistan is still waiting and thinking and being blackmailed by mafia. Atleast youth chars nae bech raha trade kr raha hay and faida Pakistan ka hora.",
+                "technique": "Presenting Irrelevant Data (Red Herring)"
+            },
+            {
+                "start_index": "0",
+                "end_index": "184",
+                "text_fragment": "World is going for technology and Pakistan is still waiting and thinking and being blackmailed by mafia. Atleast youth chars nae bech raha trade kr raha hay and faida Pakistan ka hora.",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "119",
+                "end_index": "124",
+                "text_fragment": "chars",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "83",
+                "end_index": "94",
+                "text_fragment": "blackmailed",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "98",
+                "end_index": "103",
+                "text_fragment": "mafia",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "The world is moving towards technology and Pakistan is still waiting and thinking and getting blackmailed by mafia. At least the youth is not selling hashish but doing business and Fida Pakistan's hooray."
+    },
+    "664": {
+        "id": "664",
+        "text": "Kedar mar gaye hai woh models Saba Qamar aur Veena Khan ab boolo na aurat march walioo, Disgrace female why r u silent now?",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "123",
+                "text_fragment": "Kedar mar gaye hai woh models Saba Qamar aur Veena Khan ab boolo na aurat march walioo, Disgrace female why r u silent now?",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "6",
+                "end_index": "14",
+                "text_fragment": "mar gaye",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "68",
+                "end_index": "86",
+                "text_fragment": "aurat march walioo",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "88",
+                "end_index": "103",
+                "text_fragment": "Disgrace female",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "Kedar has been killed, those models Saba Qamar and Veena Khan now speak neither woman March Valu, why are you silent now?"
+    },
+    "829": {
+        "id": "829",
+        "text": "Jawab sabh ko dena paray gaa. Sabh ko. Nawaz, Zardari, Imran. All means all. All involved in same cases",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "103",
+                "text_fragment": "Jawab sabh ko dena paray gaa. Sabh ko. Nawaz, Zardari, Imran. All means all. All involved in same cases",
+                "technique": "Smears"
+            }
+        ],
+        "translation": "Nawaz, Zardari, Imran will have to answer everyone. All means all. All are involved in the same case."
+    },
+    "597": {
+        "id": "597",
+        "text": "Tum chor ghaddar logon ko Khuda tabah o barbad kry. Don't forget end of bhutto mujeeb and indra once they conspired against Pakistan now u r doing same.",
+        "labels": [
+            {
+                "start_index": "32",
+                "end_index": "46",
+                "text_fragment": "tabah o barbad",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "4",
+                "end_index": "22",
+                "text_fragment": "chor ghaddar logon",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "Do not forget the fate of Bhutto Mujib and Indira when they conspired against Pakistan and now you are doing the same."
+    },
+    "468": {
+        "id": "468",
+        "text": "Iss Imran Khan ko deen ka manjan bechte hue sharam nhi aati jaise iski jawani guzri hai. He used to be the biggest playboy and spoiled rich kid lekin ab ziada molvi ban rha hai.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "176",
+                "text_fragment": "Iss Imran Khan ko deen ka manjan bechte hue sharam nhi aati jaise iski jawani guzri hai. He used to be the biggest playboy and spoiled rich kid lekin ab ziada molvi ban rha hai",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "0",
+                "end_index": "176",
+                "text_fragment": "Iss Imran Khan ko deen ka manjan bechte hue sharam nhi aati jaise iski jawani guzri hai. He used to be the biggest playboy and spoiled rich kid lekin ab ziada molvi ban rha hai",
+                "technique": "Whataboutism"
+            },
+            {
+                "start_index": "107",
+                "end_index": "122",
+                "text_fragment": "biggest playboy",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "127",
+                "end_index": "143",
+                "text_fragment": "spoiled rich kid",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "159",
+                "end_index": "164",
+                "text_fragment": "molvi",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "89",
+                "end_index": "143",
+                "text_fragment": "He used to be the biggest playboy and spoiled rich kid",
+                "technique": "Exaggeration/Minimisation"
+            }
+        ],
+        "translation": "They sell religion to Imran Khan, they don't feel ashamed as he has passed his youth. He used to be the biggest playboy and rich kid but now Zeta is becoming a cleric"
+    },
+    "394": {
+        "id": "394",
+        "text": "This vulgar moorat march is a proof ke LGBTQ ki bimari America tak mahdood nhi rahi ab.",
+        "labels": [
+            {
+                "start_index": "39",
+                "end_index": "44",
+                "text_fragment": "LGBTQ",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "5",
+                "end_index": "24",
+                "text_fragment": "vulgar moorat march",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "This senseless statue march is proof that the disease of LGBTQ is no longer confined to America."
+    },
+    "342": {
+        "id": "342",
+        "text": "God knows why is Sharmeen Obaid still allowed to make films on Pakistan. Ye biki hui aurat sirf burai dikha ke badnaam kar sakti hai mulk ko.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "140",
+                "text_fragment": "God knows why is Sharmeen Obaid still allowed to make films on Pakistan. Ye biki hui aurat sirf burai dikha ke badnaam kar sakti hai mulk ko",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "76",
+                "end_index": "90",
+                "text_fragment": "biki hui aurat",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "God knows why Sharmeen Obaid is still allowed to make films on Pakistan. This hungry woman can defame the country by seeing evil."
+    },
+    "635": {
+        "id": "635",
+        "text": "92 main humne jeeta tha , aur ab unho ne jeet lia , Unka badla pora hogya..\nAb agr aapki baat kre na ,to 170-0 aapke crickters ki 7 Nasle bhi lagi rahe na tb bhi england ko aisi mout nahi mar skti , jaisi mout england ne aapko mari hai",
+        "labels": [
+            {
+                "start_index": "178",
+                "end_index": "182",
+                "text_fragment": "mout",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "178",
+                "end_index": "182",
+                "text_fragment": "mout",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "188",
+                "end_index": "197",
+                "text_fragment": "mar skti ",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "76",
+                "end_index": "235",
+                "text_fragment": "Ab agr aapki baat kre na ,to 170-0 aapke crickters ki 7 Nasle bhi lagi rahe na tb bhi england ko aisi mout nahi mar skti , jaisi mout england ne aapko mari hai",
+                "technique": "Exaggeration/Minimisation"
+            }
+        ],
+        "translation": "In 92 we won, and now they won't win, their change will be complete..\nNow, if you don't speak, 170-0 even if 7 generations of your cricketers continue, even then England could not die such a death, as England did to you."
+    },
+    "485": {
+        "id": "485",
+        "text": "Iss pinki pirni ne besharmon ki tarah budhape mein Khan ke liye talaq le li. Such women contribute to bad reputation for the religion.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "133",
+                "text_fragment": "Iss pinki pirni ne besharmon ki tarah budhape mein Khan ke liye talaq le li. Such women contribute to bad reputation for the religion",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "64",
+                "end_index": "69",
+                "text_fragment": "talaq",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "This pinky pirni ni beshermon ki tara budhpe got divorce for khan. Such women contribute to the defamation of religion."
+    },
+    "139": {
+        "id": "139",
+        "text": "Islamophobia is a systematic movement started by the Non Muslims against us. Sahih kaha tha nabi pak ne yeh khabis kafir kabhi humare dost nhi ho sakte.",
+        "labels": [
+            {
+                "start_index": "108",
+                "end_index": "120",
+                "text_fragment": "khabis kafir",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "108",
+                "end_index": "120",
+                "text_fragment": "khabis kafir",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "Islamophobia is an organized movement started by non-Muslims against us. It was rightly said that the Holy Prophet, neither these wicked infidels, can ever be our friends."
+    },
+    "388": {
+        "id": "388",
+        "text": "This baby bump shit needs to stop. Peit ki numaish karne ki kya zarurat hai iss tarah? Broadcast your delivery too then. Jahil log.",
+        "labels": [
+            {
+                "start_index": "121",
+                "end_index": "130",
+                "text_fragment": "Jahil log",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "15",
+                "end_index": "19",
+                "text_fragment": "shit",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "This baby bump shit needs to stop. What is the point of showing the belly? Then broadcast your delivery as well. Ignorant log."
+    },
+    "622": {
+        "id": "622",
+        "text": "Hamry mulk ki economy ki fikar choro tmhry mulk ka hum sy bhi bura haal h toilet banao toilet pehly tm",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "102",
+                "text_fragment": "Hamry mulk ki economy ki fikar choro tmhry mulk ka hum sy bhi bura haal h toilet banao toilet pehly tm",
+                "technique": "Presenting Irrelevant Data (Red Herring)"
+            },
+            {
+                "start_index": "0",
+                "end_index": "73",
+                "text_fragment": "Hamry mulk ki economy ki fikar choro tmhry mulk ka hum sy bhi bura haal h",
+                "technique": "Exaggeration/Minimisation"
+            }
+        ],
+        "translation": "Thieves worry about the economy of our country, your country is also in a bad state, build a toilet, first TM."
+    },
+    "581": {
+        "id": "581",
+        "text": "Niazi imported yahoodiyon ka agent. mulk or country ki economy tabah karne wala insan he is ko Assembly me bhetne k liye nahi siraf fitna phelane wala or behayaye phelane wala shakhs h",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "34",
+                "text_fragment": "Niazi imported yahoodiyon ka agent",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "0",
+                "end_index": "184",
+                "text_fragment": "Niazi imported yahoodiyon ka agent. mulk or country ki economy tabah karne wala insan he is ko Assembly me bhetne k liye nahi siraf fitna phelane wala or behayaye phelane wala shakhs h",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "132",
+                "end_index": "184",
+                "text_fragment": "fitna phelane wala or behayaye phelane wala shakhs h",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "36",
+                "end_index": "85",
+                "text_fragment": "mulk or country ki economy tabah karne wala insan",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "95",
+                "end_index": "184",
+                "text_fragment": "Assembly me bhetne k liye nahi siraf fitna phelane wala or behayaye phelane wala shakhs h",
+                "technique": "Exaggeration/Minimisation"
+            }
+        ],
+        "translation": "Niazi imported the agent of the Jews. A person who destroys the country or the economy of the country is not a person to be sent to the assembly, a person who starts mischief or a person who promotes immorality."
+    },
+    "382": {
+        "id": "382",
+        "text": "Why do we always blame the justice system when rape cases occur. America mein toh qanoon bohat acha hai phir kya rape hona band ho gye?",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "135",
+                "text_fragment": "Why do we always blame the justice system when rape cases occur. America mein toh qanoon bohat acha hai phir kya rape hona band ho gye?",
+                "technique": "Whataboutism"
+            },
+            {
+                "start_index": "47",
+                "end_index": "51",
+                "text_fragment": "rape",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "47",
+                "end_index": "51",
+                "text_fragment": "rape",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "Why do we always blame the justice system when rape happens? In America, the law is very good, then did rape stop?"
+    },
+    "260": {
+        "id": "260",
+        "text": "Young Stunners fans could hear literal ass grinder and call it a singer. Bhai itni besuri awaaz mein betuke random lyrics bol dena singing nhi hota.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "71",
+                "text_fragment": "Young Stunners fans could hear literal ass grinder and call it a singer",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "83",
+                "end_index": "95",
+                "text_fragment": "besuri awaaz",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "Young Stunners fans can hear the literal ass-grinder and call it a singer. Bhai, singing random lyrics in such a loud voice is not a song."
+    },
+    "800": {
+        "id": "800",
+        "text": "Aik last sugesstion General Bajwa ko. Official twitter account bnanaa chayie abhi foran.. awam ki lanten receive krne liye. He will escape the country to avoid wrath of awaam",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "174",
+                "text_fragment": "Aik last sugesstion General Bajwa ko. Official twitter account bnanaa chayie abhi foran.. awam ki lanten receive krne liye. He will escape the country to avoid wrath of awaam",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "124",
+                "end_index": "174",
+                "text_fragment": "He will escape the country to avoid wrath of awaam",
+                "technique": "Exaggeration/Minimisation"
+            }
+        ],
+        "translation": "A final suggestion to General Bajwa. Become an official twitter account abiforin.. to receive public lenten. He will flee the country to avoid public wrath."
+    },
+    "591": {
+        "id": "591",
+        "text": "Aamir liaquat ka qatil or Pakistan ka dushman Tere uper Kon drone attack kre khud he bta de \nIsraeli agent Murdabad\nPakistan zindabad",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "22",
+                "text_fragment": "Aamir liaquat ka qatil",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "116",
+                "end_index": "133",
+                "text_fragment": "Pakistan zindabad",
+                "technique": "Slogans"
+            },
+            {
+                "start_index": "26",
+                "end_index": "45",
+                "text_fragment": "Pakistan ka dushman",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "66",
+                "end_index": "72",
+                "text_fragment": "attack",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "93",
+                "end_index": "115",
+                "text_fragment": "Israeli agent Murdabad",
+                "technique": "Slogans"
+            }
+        ],
+        "translation": "The killer of Aamir Liaquat or the enemy of Pakistan, tell me yourself who attacked you with a drone\nIsraeli agent Murdabad\nPakistan Zindabad"
+    },
+    "96": {
+        "id": "96",
+        "text": "Qadyani wajib ul qatal hein. They are a threat to Islam. Khatam e nabuwat pe yakeen nhi rakhte ye log and still claim to be Muslims.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "132",
+                "text_fragment": "Qadyani wajib ul qatal hein. They are a threat to Islam. Khatam e nabuwat pe yakeen nhi rakhte ye log and still claim to be Muslims.",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "0",
+                "end_index": "132",
+                "text_fragment": "Qadyani wajib ul qatal hein. They are a threat to Islam. Khatam e nabuwat pe yakeen nhi rakhte ye log and still claim to be Muslims.",
+                "technique": "Appeal to fear/prejudice"
+            },
+            {
+                "start_index": "40",
+                "end_index": "46",
+                "text_fragment": "threat",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "8",
+                "end_index": "22",
+                "text_fragment": "wajib ul qatal",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "The Qadiani are obligatory. They are a threat to Islam. They do not believe in Khatam-ul-Nubuat, yet they claim to be Muslims."
+    },
+    "1005": {
+        "id": "1005",
+        "text": "Shame Mr PM shame - Tattay chuknay se kam nahi chalta. You need to perform ",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "75",
+                "text_fragment": "Shame Mr PM shame - Tattay chuknay se kam nahi chalta. You need to perform ",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "20",
+                "end_index": "26",
+                "text_fragment": "Tattay",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "20",
+                "end_index": "53",
+                "text_fragment": "Tattay chuknay se kam nahi chalta",
+                "technique": "Exaggeration/Minimisation"
+            }
+        ],
+        "translation": "Shame on you Mr. PM. Shame on you. You need to perform."
+    },
+    "192": {
+        "id": "192",
+        "text": "Maryam Nawaz kam se kam bakirdaar toh hai unlike pinki pirni who divorced her husband burhape mein just to marry Khan.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "117",
+                "text_fragment": "Maryam Nawaz kam se kam bakirdaar toh hai unlike pinki pirni who divorced her husband burhape mein just to marry Khan",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "0",
+                "end_index": "41",
+                "text_fragment": "Maryam Nawaz kam se kam bakirdaar toh hai",
+                "technique": "Glittering generalities (Virtue)"
+            },
+            {
+                "start_index": "49",
+                "end_index": "60",
+                "text_fragment": "pinki pirni",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "Maryam Nawaz Kaam Se Kaam Bakirdar Tu Hai unlike Pinky Pirni who divorced her husband Barahpe Main to marry Khan."
+    },
+    "682": {
+        "id": "682",
+        "text": "Tum aurat kehlanay kay bhi kabil nai ho. Yehi auratain hoti hain jo bad mein aurat march mein ro rhi hoti. You are disgusting",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "125",
+                "text_fragment": "Tum aurat kehlanay kay bhi kabil nai ho. Yehi auratain hoti hain jo bad mein aurat march mein ro rhi hoti. You are disgusting",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "0",
+                "end_index": "105",
+                "text_fragment": "Tum aurat kehlanay kay bhi kabil nai ho. Yehi auratain hoti hain jo bad mein aurat march mein ro rhi hoti",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "115",
+                "end_index": "125",
+                "text_fragment": "disgusting",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "You should never be ashamed of being called a woman. These are the other three that would have been crying in a bad woman's march. You are disgusting."
+    },
+    "617": {
+        "id": "617",
+        "text": "Bhai jis World Cup mein Pak jaisi team sabse pahle final mein pahuchi hai, us tournament ki koi value nahi hai.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "111",
+                "text_fragment": "Bhai jis World Cup mein Pak jaisi team sabse pahle final mein pahuchi hai, us tournament ki koi value nahi hai.",
+                "technique": "Exaggeration/Minimisation"
+            }
+        ],
+        "translation": "Bro, in the World Cup where a team like Pak has reached the final for the first time, we have no value in the tournament."
+    },
+    "982": {
+        "id": "982",
+        "text": "Zamana tabah hogya hai. Twitter par content se zyaada fahashi hai. Har kisi ka alag randi rona hai. And yeah nudity ko coolness samajh kar present kiya jaata hai. Is this the Islamic Republic of Pakistan?\n",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "161",
+                "text_fragment": "Zamana tabah hogya hai. Twitter par content se zyaada fahashi hai. Har kisi ka alag randi rona hai. And yeah nudity ko coolness samajh kar present kiya jaata hai",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "0",
+                "end_index": "204",
+                "text_fragment": "Zamana tabah hogya hai. Twitter par content se zyaada fahashi hai. Har kisi ka alag randi rona hai. And yeah nudity ko coolness samajh kar present kiya jaata hai. Is this the Islamic Republic of Pakistan?",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "109",
+                "end_index": "115",
+                "text_fragment": "nudity",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "163",
+                "end_index": "204",
+                "text_fragment": "Is this the Islamic Republic of Pakistan?",
+                "technique": "Doubt"
+            },
+            {
+                "start_index": "84",
+                "end_index": "94",
+                "text_fragment": "randi rona",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "Time will be destroyed. Twitter seems to be rejoicing. Everyone has a different play cry. And yes, nudity is presented as cool. Is this the Islamic Republic of Pakistan?\n"
+    },
+    "328": {
+        "id": "328",
+        "text": "Atheists have no purpose in life. Imagine being so clueless ke apne khuda ka bhi na pta ho. Jisne tumhe bnaya ussi ka inkaar kar do waah.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "32",
+                "text_fragment": "Atheists have no purpose in life",
+                "technique": "Exaggeration/Minimisation"
+            }
+        ],
+        "translation": "An atheist's life has no purpose. Imagine being so clueless that you don't even have a leash on yourself. Deny him who made you."
+    },
+    "54": {
+        "id": "54",
+        "text": "Bhutto was the reason why we lost Bangladesh.Bht acha hua latka diya kutte ko.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "44",
+                "text_fragment": "Bhutto was the reason why we lost Bangladesh",
+                "technique": "Causal Oversimplification"
+            },
+            {
+                "start_index": "58",
+                "end_index": "77",
+                "text_fragment": "latka diya kutte ko",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "69",
+                "end_index": "74",
+                "text_fragment": "kutte",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "Bhutto was the reason why we lost Bangladesh, Bhutto got hanged"
+    },
+    "23": {
+        "id": "23",
+        "text": "According to an MNA, breast cancer awareness tune is obscene. Molvion ki jahalat never disappoints, lage raho mazhab ke thekedaaro.",
+        "labels": [
+            {
+                "start_index": "110",
+                "end_index": "130",
+                "text_fragment": "mazhab ke thekedaaro",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "53",
+                "end_index": "60",
+                "text_fragment": "obscene",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "73",
+                "end_index": "80",
+                "text_fragment": "jahalat",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "A breast cancer awareness song is obscene, according to an MNA. The ignorance of the clerics never disappoints, hang on, you tired of the madhhab."
+    },
+    "952": {
+        "id": "952",
+        "text": "What these stupid fake feminists are doing is a never ending line similar what\u2019s happening in west. Khudara actual problems pe bat karain aur inn ghatia logo ki nishandahi karain jo hamari society aur bacho ky zehan khrab krna chah rahay hain",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "98",
+                "text_fragment": "What these stupid fake feminists are doing is a never ending line similar what\u2019s happening in west",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "0",
+                "end_index": "242",
+                "text_fragment": "What these stupid fake feminists are doing is a never ending line similar what\u2019s happening in west. Khudara actual problems pe bat karain aur inn ghatia logo ki nishandahi karain jo hamari society aur bacho ky zehan khrab krna chah rahay hain",
+                "technique": "Appeal to fear/prejudice"
+            },
+            {
+                "start_index": "0",
+                "end_index": "242",
+                "text_fragment": "What these stupid fake feminists are doing is a never ending line similar what\u2019s happening in west. Khudara actual problems pe bat karain aur inn ghatia logo ki nishandahi karain jo hamari society aur bacho ky zehan khrab krna chah rahay hain",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "11",
+                "end_index": "32",
+                "text_fragment": "stupid fake feminists",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "146",
+                "end_index": "157",
+                "text_fragment": "ghatia logo",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "What these stupid fake feminists are doing is a never ending line like what is happening in the west. Please talk about the current issues and identify the people who are trying to harm our society and children."
+    },
+    "290": {
+        "id": "290",
+        "text": "Agar chote kapre modern hone ki alamat hai phir toh animals are way more modern than these so called feminists kyunke wo toh nange ghoomte hain hahaha.",
+        "labels": [
+            {
+                "start_index": "125",
+                "end_index": "130",
+                "text_fragment": "nange",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "91",
+                "end_index": "110",
+                "text_fragment": "so called feminists",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "If small animals are a sign of being modern, then animals are more modern than these so-called feminists, why do they walk around naked haha?"
+    },
+    "174": {
+        "id": "174",
+        "text": "Aisa hi chalta raha toh LGBT Pakistan mein bhi jald he legal ho jaye ga. These liberals and feminists should be thrown out of Isalmi jamhooria Pakistan.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "152",
+                "text_fragment": "Aisa hi chalta raha toh LGBT Pakistan mein bhi jald he legal ho jaye ga. These liberals and feminists should be thrown out of Isalmi jamhooria Pakistan.",
+                "technique": "Appeal to fear/prejudice"
+            },
+            {
+                "start_index": "0",
+                "end_index": "151",
+                "text_fragment": "Aisa hi chalta raha toh LGBT Pakistan mein bhi jald he legal ho jaye ga. These liberals and feminists should be thrown out of Isalmi jamhooria Pakistan",
+                "technique": "Flag-waving"
+            },
+            {
+                "start_index": "24",
+                "end_index": "28",
+                "text_fragment": "LGBT",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "If this continues, LGBT will soon become legal in Pakistan as well. These liberals and feminists should be thrown out of the Islamic Republic of Pakistan."
+    },
+    "199": {
+        "id": "199",
+        "text": "America is the most racist country. Jhaatu abhi bhi nokri dete waqt rang nasal poochte hain ke dein ya nhi.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "34",
+                "text_fragment": "America is the most racist country",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "0",
+                "end_index": "34",
+                "text_fragment": "America is the most racist country",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "20",
+                "end_index": "26",
+                "text_fragment": "racist",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "52",
+                "end_index": "106",
+                "text_fragment": "nokri dete waqt rang nasal poochte hain ke dein ya nhi",
+                "technique": "Exaggeration/Minimisation"
+            }
+        ],
+        "translation": "America is the most racist country. Jhatos still ask if they want to give a job or not"
+    },
+    "63": {
+        "id": "63",
+        "text": "Bilawal ko foreign minister bnane se pehle uss ka gender confirm kia?",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "69",
+                "text_fragment": "Bilawal ko foreign minister bnane se pehle uss ka gender confirm kia?",
+                "technique": "Smears"
+            }
+        ],
+        "translation": "Before making Bilawal foreign minister, did you confirm his gender?"
+    },
+    "231": {
+        "id": "231",
+        "text": "Jab tak Zardari jese politician Sindh pe kabiz rhen ge it will keep going downhill.They do nothing except ghunda gardi and corruption.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "133",
+                "text_fragment": "Jab tak Zardari jese politician Sindh pe kabiz rhen ge it will keep going downhill.They do nothing except ghunda gardi and corruption",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "0",
+                "end_index": "82",
+                "text_fragment": "Jab tak Zardari jese politician Sindh pe kabiz rhen ge it will keep going downhill",
+                "technique": "Causal Oversimplification"
+            },
+            {
+                "start_index": "106",
+                "end_index": "118",
+                "text_fragment": "ghunda gardi",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "123",
+                "end_index": "133",
+                "text_fragment": "corruption",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "32",
+                "end_index": "46",
+                "text_fragment": "Sindh pe kabiz",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "83",
+                "end_index": "133",
+                "text_fragment": "They do nothing except ghunda gardi and corruption",
+                "technique": "Exaggeration/Minimisation"
+            }
+        ],
+        "translation": "As long as a politician like Zardari is in control of Sindh it will continue to go downhill, they do nothing but thuggery and corruption."
+    },
+    "803": {
+        "id": "803",
+        "text": "Is that gulab jaman in the plate of the person who took this picture? Khuda hi reham karay phir se azaab na ajaye hum per. Inke raaz o niyaaz walay style achay nahi lag rahay.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "175",
+                "text_fragment": "Is that gulab jaman in the plate of the person who took this picture? Khuda hi reham karay phir se azaab na ajaye hum per. Inke raaz o niyaaz walay style achay nahi lag rahay.",
+                "technique": "Presenting Irrelevant Data (Red Herring)"
+            }
+        ],
+        "translation": "Is that Gulab Juman on the plate of the person who took this photo? May God have mercy and let us not be surprised again. His secretive and secretive ways are not looking good."
+    },
+    "464": {
+        "id": "464",
+        "text": "If medicine fails to cure your disease try praying to God. Khuda ke kalam mein shifa hai.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "88",
+                "text_fragment": "If medicine fails to cure your disease try praying to God. Khuda ke kalam mein shifa hai",
+                "technique": "Appeal to authority"
+            }
+        ],
+        "translation": "If medicine does not cure your illness, try praying to God. There is healing in the Word of God."
+    },
+    "998": {
+        "id": "998",
+        "text": "Pakistani qoum un kutto k sath nh hai jo dollars k liy america ko apne maa behny pesh kratay hain, regime change kraya, Arshad Sharif ko shaheed kraya, Imran Khan ko qatal krny ke koshsh ki aur retirement k baad kutty k tarah dubai pohnch gai.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "243",
+                "text_fragment": "Pakistani qoum un kutto k sath nh hai jo dollars k liy america ko apne maa behny pesh kratay hain, regime change kraya, Arshad Sharif ko shaheed kraya, Imran Khan ko qatal krny ke koshsh ki aur retirement k baad kutty k tarah dubai pohnch gai.",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "137",
+                "end_index": "144",
+                "text_fragment": "shaheed",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "166",
+                "end_index": "171",
+                "text_fragment": "qatal",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "18",
+                "end_index": "23",
+                "text_fragment": "kutto",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "212",
+                "end_index": "217",
+                "text_fragment": "kutty",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "The nation of Pakistan is not with those cutos who offer America as their mother for dollars, change the government, martyr Arshad Sharif, try to kill Imran Khan and do not talk after retirement."
+    },
+    "67": {
+        "id": "67",
+        "text": "This movie Joyland has received the queer palm award. Like WTH, ab Pakistan bhi iss quom e loot ke raaste par chale ga. Govt must take notice, ban them asap.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "118",
+                "text_fragment": "This movie Joyland has received the queer palm award. Like WTH, ab Pakistan bhi iss quom e loot ke raaste par chale ga",
+                "technique": "Reductio ad hitlerum"
+            },
+            {
+                "start_index": "0",
+                "end_index": "118",
+                "text_fragment": "This movie Joyland has received the queer palm award. Like WTH, ab Pakistan bhi iss quom e loot ke raaste par chale ga",
+                "technique": "Presenting Irrelevant Data (Red Herring)"
+            },
+            {
+                "start_index": "59",
+                "end_index": "62",
+                "text_fragment": "WTH",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "The film Joyland won the Queer Palm Award. Like WTH, now Pakistan will also follow the path of this nation of e-loot, the government should take notice and ban them as soon as possible."
+    },
+    "198": {
+        "id": "198",
+        "text": "Khuda ka wasta hai inflation thori kam kar do.Rich are getting richer while ghareeb ki qamar toot gyi hai. Pathetic situation.",
+        "labels": [
+            {
+                "start_index": "107",
+                "end_index": "125",
+                "text_fragment": "Pathetic situation",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "87",
+                "end_index": "101",
+                "text_fragment": "qamar toot gyi",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "Inflation is God's way, work hard. The rich are getting richer while the poor are losing their fortunes. Sad situation."
+    },
+    "528": {
+        "id": "528",
+        "text": "Ye match fix to nhi? Jaan bujh ke out ho rhe hain inke saare players.\nDaal me kuch to kaala h. Well paid Pakistan?",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "68",
+                "text_fragment": "Ye match fix to nhi? Jaan bujh ke out ho rhe hain inke saare players",
+                "technique": "Doubt"
+            },
+            {
+                "start_index": "0",
+                "end_index": "114",
+                "text_fragment": "Ye match fix to nhi? Jaan bujh ke out ho rhe hain inke saare players.\nDaal me kuch to kaala h. Well paid Pakistan?",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "21",
+                "end_index": "68",
+                "text_fragment": "Jaan bujh ke out ho rhe hain inke saare players",
+                "technique": "Exaggeration/Minimisation"
+            }
+        ],
+        "translation": "Do you fix matches? All their players are dying.\nSome black H in the dal. What did Pakistan do well?"
+    },
+    "987": {
+        "id": "987",
+        "text": "Mashra tabah krne mai is gndi film industry ka sab se bara hath h. These bastards are trying to promote the transgender act.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "65",
+                "text_fragment": "Mashra tabah krne mai is gndi film industry ka sab se bara hath h",
+                "technique": "Causal Oversimplification"
+            },
+            {
+                "start_index": "0",
+                "end_index": "65",
+                "text_fragment": "Mashra tabah krne mai is gndi film industry ka sab se bara hath h",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "0",
+                "end_index": "124",
+                "text_fragment": "Mashra tabah krne mai is gndi film industry ka sab se bara hath h. These bastards are trying to promote the transgender act.",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "73",
+                "end_index": "81",
+                "text_fragment": "bastards",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "Mishra Taba Karni is the biggest hand in my film industry. These bastards are trying to promote the Transgender Act."
+    },
+    "362": {
+        "id": "362",
+        "text": "Why are these feminists even given a platform? Jitni bakwas karti hein mardon ke baare mein inhein ban kar dena chahiye media se.",
+        "labels": [
+            {
+                "start_index": "53",
+                "end_index": "59",
+                "text_fragment": "bakwas",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "Why are these feminists given a platform? Jitni is talking nonsense about men and should be done by the media."
+    },
+    "618": {
+        "id": "618",
+        "text": "We knew it. And nation stands with Imran Khan except patwaris. Hr saazish nakaam hogi.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "86",
+                "text_fragment": "We knew it. And nation stands with Imran Khan except patwaris. Hr saazish nakaam hogi.",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "53",
+                "end_index": "61",
+                "text_fragment": "patwaris",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "We knew it. And the nation stands with Imran Khan apart from Patwaris. Hr Saazish Nakaam Hogi."
+    },
+    "929": {
+        "id": "929",
+        "text": "U have slave mentality. Tumhary apny players ko nai ati english, tum kis mou sy bol rahy ho? Shami etc ko ni ati english.Ronaldo ny 1 saal me ni seekhi, 10 saal bad ja ky seekhi hai. Nadal ko abhi tak bolnay mein mushkil hoti hai english.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "92",
+                "text_fragment": "U have slave mentality. Tumhary apny players ko nai ati english, tum kis mou sy bol rahy ho?",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "7",
+                "end_index": "22",
+                "text_fragment": "slave mentality",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "You have a slave mentality. Not so much English to your own players, who are you talking to? Ne ety English to Syrian etc. Ronaldo didn't find it in 1 year, 10 years of searching. Nadal still has difficulty speaking English."
+    },
+    "292": {
+        "id": "292",
+        "text": "There is a difference between have a prefrence and racism. Agar koi dark larki se shaadi nhi karna chahta toh iss mein ghalat kiya hai? Har aik ki apni marzi hai.",
+        "labels": [
+            {
+                "start_index": "136",
+                "end_index": "161",
+                "text_fragment": "Har aik ki apni marzi hai",
+                "technique": "Thought-terminating clich\u00e9"
+            },
+            {
+                "start_index": "51",
+                "end_index": "57",
+                "text_fragment": "racism",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "There is a difference between preference and racism. If someone doesn't want to marry an dark lark, what's wrong with that? Everyone has their own masculinity."
+    },
+    "752": {
+        "id": "752",
+        "text": "Great step taken by the Govt of Pakistan . We can't afford these type of Films which promote LGBTQ agenda in our country. Khajasirah k nam pe beheyai phelani ki ejazat ni honi chaye. Bharh me jae aisa Art.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "40",
+                "text_fragment": "Great step taken by the Govt of Pakistan",
+                "technique": "Glittering generalities (Virtue)"
+            },
+            {
+                "start_index": "183",
+                "end_index": "195",
+                "text_fragment": "Bharh me jae",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "43",
+                "end_index": "204",
+                "text_fragment": "We can't afford these type of Films which promote LGBTQ agenda in our country. Khajasirah k nam pe beheyai phelani ki ejazat ni honi chaye. Bharh me jae aisa Art",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "93",
+                "end_index": "98",
+                "text_fragment": "LGBTQ",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "A big step by the government of Pakistan. We cannot afford these types of films that promote the LGBTQ agenda in our country. Khajasirah K nam Pe Beheyai Phelani ki Ejazat ni honi chaye. Such an art is everywhere."
+    },
+    "1029": {
+        "id": "1029",
+        "text": "Ghatiya channel ARY or ghatiya host Nida aur ghatiya he guests. So trend chalao sab boycott ARY and  boycott Nida",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "19",
+                "text_fragment": "Ghatiya channel ARY",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "0",
+                "end_index": "113",
+                "text_fragment": "Ghatiya channel ARY or ghatiya host Nida aur ghatiya he guests. So trend chalao sab boycott ARY and  boycott Nida",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "23",
+                "end_index": "40",
+                "text_fragment": "ghatiya host Nida",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "45",
+                "end_index": "62",
+                "text_fragment": "ghatiya he guests",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "Bad channel ARY or Ghatia host Nida and Ghatia are the guests. So run everyone's trend ARY and boycott Nada."
+    },
+    "158": {
+        "id": "158",
+        "text": "Humari officers ko sirf kursi pe baith ke hukam chalane ka nasha hai. They take zero responsibility of their work.",
+        "labels": [
+            {
+                "start_index": "70",
+                "end_index": "113",
+                "text_fragment": "They take zero responsibility of their work",
+                "technique": "Exaggeration/Minimisation"
+            }
+        ],
+        "translation": "Our officers are intoxicated by the command of Bait on the surf chair. They take zero responsibility for their work."
+    },
+    "2": {
+        "id": "2",
+        "text": "Kohli se itna pyaar hai toh India shift ho jao.These toxic twitteraties are spewing hate against Pak cricket team 24/7 while praising their najaiz baap Kohli.",
+        "labels": [
+            {
+                "start_index": "14",
+                "end_index": "19",
+                "text_fragment": "pyaar",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "140",
+                "end_index": "157",
+                "text_fragment": "najaiz baap Kohli",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "47",
+                "end_index": "157",
+                "text_fragment": "These toxic twitteraties are spewing hate against Pak cricket team 24/7 while praising their najaiz baap Kohli",
+                "technique": "Presenting Irrelevant Data (Red Herring)"
+            },
+            {
+                "start_index": "53",
+                "end_index": "58",
+                "text_fragment": "toxic",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "53",
+                "end_index": "71",
+                "text_fragment": "toxic twitteraties",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "84",
+                "end_index": "88",
+                "text_fragment": "hate",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "If you love Kohli so much, then shift to India. These venomous tweeters are spreading hate against Pakistan cricket team 24/7 while praising their lousy father Kohli."
+    },
+    "208": {
+        "id": "208",
+        "text": "Transgender bill was just a drama to glorify these stupid transgenders. Inko khud shaadion pe nachne ka aur sarkon pe bheek mangne ka shoq hai.Nobody is forcing them.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "70",
+                "text_fragment": "Transgender bill was just a drama to glorify these stupid transgenders",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "51",
+                "end_index": "70",
+                "text_fragment": "stupid transgenders",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "The Transgender Bill was just a play to appease these stupid transgenders. They themselves like to dance at weddings and beg in the streets, no one is forcing them."
+    },
+    "299": {
+        "id": "299",
+        "text": "Supreme Court ne Nawaz Shareef ko na ahal kar ke koi zaati dushmani nikali hai. Every other politician has scandals. What's the big deal?",
+        "labels": [
+            {
+                "start_index": "80",
+                "end_index": "115",
+                "text_fragment": "Every other politician has scandals",
+                "technique": "Exaggeration/Minimisation"
+            }
+        ],
+        "translation": "The Supreme Court has not said anything to disqualify Nawaz Sharif. Every other politician has scandals. What's the big deal?"
+    },
+    "869": {
+        "id": "869",
+        "text": "Hum vahee sochtey hain Pakistan key barrey mein Jo puri duniya sochti hai \"a country which can't survive without AID or loan\"",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "125",
+                "text_fragment": "Hum vahee sochtey hain Pakistan key barrey mein Jo puri duniya sochti hai \"a country which can't survive without AID or loan\"",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "0",
+                "end_index": "125",
+                "text_fragment": "Hum vahee sochtey hain Pakistan key barrey mein Jo puri duniya sochti hai \"a country which can't survive without AID or loan\"",
+                "technique": "Smears"
+            }
+        ],
+        "translation": "We think of Pakistan what the whole world thinks \"a country that cannot survive without aid or credit\"."
+    },
+    "912": {
+        "id": "912",
+        "text": "Agar Imran Khan ko goli par sakti hai tou. He is an ex PM, WC winning captain, Pakistan ka sabse bara star. Jab woh hi nai safe toh kya terrorist zinda chhodenge India team ko. Tou phir kyun aye India team Asia cup khelnay? Is Pakistan even safe?",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "246",
+                "text_fragment": "Agar Imran Khan ko goli par sakti hai tou. He is an ex PM, WC winning captain, Pakistan ka sabse bara star. Jab woh hi nai safe toh kya terrorist zinda chhodenge India team ko. Tou phir kyun aye India team Asia cup khelnay? Is Pakistan even safe?",
+                "technique": "Doubt"
+            },
+            {
+                "start_index": "0",
+                "end_index": "246",
+                "text_fragment": "Agar Imran Khan ko goli par sakti hai tou. He is an ex PM, WC winning captain, Pakistan ka sabse bara star. Jab woh hi nai safe toh kya terrorist zinda chhodenge India team ko. Tou phir kyun aye India team Asia cup khelnay? Is Pakistan even safe?",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "136",
+                "end_index": "145",
+                "text_fragment": "terrorist",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "43",
+                "end_index": "106",
+                "text_fragment": "He is an ex PM, WC winning captain, Pakistan ka sabse bara star",
+                "technique": "Glittering generalities (Virtue)"
+            },
+            {
+                "start_index": "79",
+                "end_index": "106",
+                "text_fragment": "Pakistan ka sabse bara star",
+                "technique": "Exaggeration/Minimisation"
+            }
+        ],
+        "translation": "If you can shoot Imran Khan. He is former Prime Minister, World Cup winning captain, Pakistan's biggest star. When they are not safe, will the terrorists leave the Indian team alive. Then why will the Indian team play the Asia Cup? Is Pakistan safe?"
+    },
+    "996": {
+        "id": "996",
+        "text": "RAW kuch bhi nahi kar payi. Aur agar Imran Niazi wapis aya tou aap ke hukmaranon ko aur thappar lagay ge aur aap k Foji kutton ko thudday marray ga. We want Imran Khan back",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "148",
+                "text_fragment": "RAW kuch bhi nahi kar payi. Aur agar Imran Niazi wapis aya tou aap ke hukmaranon ko aur thappar lagay ge aur aap k Foji kutton ko thudday marray ga.",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "149",
+                "end_index": "172",
+                "text_fragment": "We want Imran Khan back",
+                "technique": "Slogans"
+            }
+        ],
+        "translation": "Ra could do nothing. And if Imran Niazi comes back, your orders will be slapped and your military kits will die of cold. We want Imran Khan back."
+    },
+    "1016": {
+        "id": "1016",
+        "text": "This guy Erdogan seems so done with this joker. Bisti karwata phir raha har jaga mulk ki, ajeeb cartoon kanjar",
+        "labels": [
+            {
+                "start_index": "104",
+                "end_index": "110",
+                "text_fragment": "kanjar",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "41",
+                "end_index": "46",
+                "text_fragment": "joker",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "90",
+                "end_index": "110",
+                "text_fragment": "ajeeb cartoon kanjar",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "This man Erdo\u011fan seems to have done this with this clown. Basti Karavata Phir Raha Har Jaga Malik Ki, Strange Cartoon Conjurer"
+    },
+    "298": {
+        "id": "298",
+        "text": "Maryam Nawaz has been brought into politics to lure perverted men towards pmln. Bhai araam se bahar bethe hain bhen ko gaaliyan sunne je liye siasat mein bhej dia. Beghairat.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "78",
+                "text_fragment": "Maryam Nawaz has been brought into politics to lure perverted men towards pmln",
+                "technique": "Causal Oversimplification"
+            },
+            {
+                "start_index": "0",
+                "end_index": "78",
+                "text_fragment": "Maryam Nawaz has been brought into politics to lure perverted men towards pmln",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "0",
+                "end_index": "162",
+                "text_fragment": "Maryam Nawaz has been brought into politics to lure perverted men towards pmln. Bhai araam se bahar bethe hain bhen ko gaaliyan sunne je liye siasat mein bhej dia",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "119",
+                "end_index": "127",
+                "text_fragment": "gaaliyan",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "164",
+                "end_index": "173",
+                "text_fragment": "Beghairat",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "52",
+                "end_index": "61",
+                "text_fragment": "perverted",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "52",
+                "end_index": "65",
+                "text_fragment": "perverted men",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "Maryam Nawaz has been brought into politics to attract corrupt people to politics. The brothers are sitting comfortably in spring."
+    },
+    "755": {
+        "id": "755",
+        "text": "Aik say bhar kr aik chutia market main hy ajj kul. other than COAS and IK everyone knows everything",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "99",
+                "text_fragment": "Aik say bhar kr aik chutia market main hy ajj kul. other than COAS and IK everyone knows everything",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "0",
+                "end_index": "99",
+                "text_fragment": "Aik say bhar kr aik chutia market main hy ajj kul. other than COAS and IK everyone knows everything",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "20",
+                "end_index": "26",
+                "text_fragment": "chutia",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "By filling one word, one chotia is in the market today. Everyone knows everything except COAS and IK."
+    },
+    "25": {
+        "id": "25",
+        "text": "Aurat march jaisee fahashi ho gi toh Khuda ka azaab toh aye ga naa. This nation is doomed if they keep moving away from Islamic values at the current pace.\n",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "66",
+                "text_fragment": "Aurat march jaisee fahashi ho gi toh Khuda ka azaab toh aye ga naa",
+                "technique": "Causal Oversimplification"
+            },
+            {
+                "start_index": "0",
+                "end_index": "155",
+                "text_fragment": "Aurat march jaisee fahashi ho gi toh Khuda ka azaab toh aye ga naa. This nation is doomed if they keep moving away from Islamic values at the current pace.",
+                "technique": "Appeal to fear/prejudice"
+            },
+            {
+                "start_index": "19",
+                "end_index": "26",
+                "text_fragment": "fahashi",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "37",
+                "end_index": "51",
+                "text_fragment": "Khuda ka azaab",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "68",
+                "end_index": "154",
+                "text_fragment": "This nation is doomed if they keep moving away from Islamic values at the current pace",
+                "technique": "Flag-waving"
+            },
+            {
+                "start_index": "83",
+                "end_index": "89",
+                "text_fragment": "doomed",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "If a woman is obscene like March, God's punishment will come, won't it? This nation is doomed if it continues to move away from Islamic values at the current rate.\n"
+    },
+    "72": {
+        "id": "72",
+        "text": "Gender equality chahiye,right? Jab chapair ke badle chapair pare phir phir gender equality kahan jati hai? You women are a fucking joke.",
+        "labels": [
+            {
+                "start_index": "123",
+                "end_index": "130",
+                "text_fragment": "fucking",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "123",
+                "end_index": "135",
+                "text_fragment": "fucking joke",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "35",
+                "end_index": "42",
+                "text_fragment": "chapair",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "Shouldn't there be gender equality? Where does the gender equality go when the chaper is replaced by the chaper? You ladies are a joke."
+    },
+    "275": {
+        "id": "275",
+        "text": "Ya toh PDM ka saath do ya seedha bol do ke hum kafir hain. The behavior of France against our religion is completely unacceptable.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "57",
+                "text_fragment": "Ya toh PDM ka saath do ya seedha bol do ke hum kafir hain",
+                "technique": "Black-and-white Fallacy/Dictatorship"
+            }
+        ],
+        "translation": "Either support PDM or say it directly, we are infidels. France's attitude towards our religion is completely unacceptable."
+    },
+    "478": {
+        "id": "478",
+        "text": "Bachon ke baghair zindagi colorless, lonely aur unfulfilling hai.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "64",
+                "text_fragment": "Bachon ke baghair zindagi colorless, lonely aur unfulfilling hai",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "18",
+                "end_index": "60",
+                "text_fragment": "zindagi colorless, lonely aur unfulfilling",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "Life without Bachon is colourless, lonely and incomplete."
+    },
+    "314": {
+        "id": "314",
+        "text": "Saudi Arab ki jaise harkatein hain bht jald inpe Khuda ka azab nazil ho ga. A whole damn pub in the holy land of Muslims. How can the govt approve this shit my goodness.",
+        "labels": [
+            {
+                "start_index": "152",
+                "end_index": "156",
+                "text_fragment": "shit",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "49",
+                "end_index": "62",
+                "text_fragment": "Khuda ka azab",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "Actions like those of Saudi Arabia will soon bring down God's punishment. A total damn pub in the holy land of Muslims. How can the government approve this my goodness?"
+    },
+    "833": {
+        "id": "833",
+        "text": "Hahaha. Agr inky asasy itny clear hy through tax returns to public krny me kia harj hy?",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "87",
+                "text_fragment": "Hahaha. Agr inky asasy itny clear hy through tax returns to public krny me kia harj hy?",
+                "technique": "Doubt"
+            }
+        ],
+        "translation": "Hahahaha what's wrong with making it clear to the public through a tax return?"
+    },
+    "588": {
+        "id": "588",
+        "text": "Boot polishiye ab smjh aya k es idaary ne hur field m apne bandy chodaay we h cricket m Afridi, Mazahab m tm jese siyast m jese Aamir liaquat aur bhi hur shoobay m enky ghulam bethy hoe h",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "14",
+                "text_fragment": "Boot polishiye",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "0",
+                "end_index": "187",
+                "text_fragment": "Boot polishiye ab smjh aya k es idaary ne hur field m apne bandy chodaay we h cricket m Afridi, Mazahab m tm jese siyast m jese Aamir liaquat aur bhi hur shoobay m enky ghulam bethy hoe h",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "150",
+                "end_index": "187",
+                "text_fragment": "hur shoobay m enky ghulam bethy hoe h",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "169",
+                "end_index": "175",
+                "text_fragment": "ghulam",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "Bot Palishian now understood that with this idea, we should leave our servants in every field, let us have cricket like M Afridi, joke MTM like politics like M Aamir Liaquat and also be their slaves in Shobay."
+    },
+    "980": {
+        "id": "980",
+        "text": "Story of our people?? In Pakistan lots of perverted people fornicate with animals too. Bana do tum us pe bhi film. Dikhaao na us ki bhi struggles, wo insan nahi hain kia?",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "170",
+                "text_fragment": "Story of our people?? In Pakistan lots of perverted people fornicate with animals too. Bana do tum us pe bhi film. Dikhaao na us ki bhi struggles, wo insan nahi hain kia?",
+                "technique": "Presenting Irrelevant Data (Red Herring)"
+            },
+            {
+                "start_index": "22",
+                "end_index": "85",
+                "text_fragment": "In Pakistan lots of perverted people fornicate with animals too",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "22",
+                "end_index": "86",
+                "text_fragment": "In Pakistan lots of perverted people fornicate with animals too.",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "42",
+                "end_index": "58",
+                "text_fragment": "perverted people",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "42",
+                "end_index": "51",
+                "text_fragment": "perverted",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "59",
+                "end_index": "68",
+                "text_fragment": "fornicate",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "The story of our people Many immoral people in Pakistan also commit adultery with animals. Make a movie on us too. Look at our struggle, isn't it human?"
+    },
+    "762": {
+        "id": "762",
+        "text": "I went there too and the same thing they said to me. The teacher over said to me \"ye sawal to 6 saal k Bache bhi krlete hain, nothing is out from the syllabus\"",
+        "labels": [
+            {
+                "start_index": "81",
+                "end_index": "159",
+                "text_fragment": "\"ye sawal to 6 saal k Bache bhi krlete hain, nothing is out from the syllabus\"",
+                "technique": "Exaggeration/Minimisation"
+            }
+        ],
+        "translation": "I also went there and the same thing they told me. The teacher said to me, \"Yes, even 6-year-olds can do it from Sal, nothing is out of syllabus\"."
+    },
+    "92": {
+        "id": "92",
+        "text": "Domestic Violence bill Islami ikdaar ke saath khula tazaad hai. How can a father let his daughter have haram relations, and not even punish her? Aisa nhi chale na is mulk mein.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "17",
+                "text_fragment": "Domestic Violence",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "103",
+                "end_index": "108",
+                "text_fragment": "haram",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "133",
+                "end_index": "139",
+                "text_fragment": "punish",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "46",
+                "end_index": "58",
+                "text_fragment": "khula tazaad",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "The domestic violence bill is an open reference to Islamic practice. How can a father allow his daughter to have illicit relations and not punish him? This is not the case in the country."
+    },
+    "462": {
+        "id": "462",
+        "text": "Why are blacks a protected community? Goron ke masle nhi kya? Bas ab racism bhi drama hi ban gya hai.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "61",
+                "text_fragment": "Why are blacks a protected community? Goron ke masle nhi kya?",
+                "technique": "Whataboutism"
+            },
+            {
+                "start_index": "38",
+                "end_index": "43",
+                "text_fragment": "Goron",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "38",
+                "end_index": "43",
+                "text_fragment": "Goron",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "69",
+                "end_index": "75",
+                "text_fragment": "racism",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "8",
+                "end_index": "36",
+                "text_fragment": "blacks a protected community",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "8",
+                "end_index": "14",
+                "text_fragment": "blacks",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "Why are blacks a safe community? What about whites? Now racism has become a drama."
+    },
+    "513": {
+        "id": "513",
+        "text": "You need a brown uniform in Pakistan to be a patriot warna aap ghaddaar hain. Imagine a dictator saying this about Fatima jinnah.\nSame war, Same Enemy.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "76",
+                "text_fragment": "You need a brown uniform in Pakistan to be a patriot warna aap ghaddaar hain",
+                "technique": "Black-and-white Fallacy/Dictatorship"
+            },
+            {
+                "start_index": "130",
+                "end_index": "151",
+                "text_fragment": "Same war, Same Enemy.",
+                "technique": "Slogans"
+            },
+            {
+                "start_index": "53",
+                "end_index": "56",
+                "text_fragment": "war",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "63",
+                "end_index": "71",
+                "text_fragment": "ghaddaar",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "To be a patriot in Pakistan you need a brown uniform. Image of the dictator saying this about Fatima Jinnah.\nSame war, same enemy."
+    },
+    "425": {
+        "id": "425",
+        "text": "Baap bhai bethe hote hain aur Always ka ad aajata hai. Please have some decency PEMRA.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "85",
+                "text_fragment": "Baap bhai bethe hote hain aur Always ka ad aajata hai. Please have some decency PEMRA",
+                "technique": "Smears"
+            }
+        ],
+        "translation": "Father and brother are sitting and the usual advertisement comes on. Pemra show some decency."
+    },
+    "989": {
+        "id": "989",
+        "text": "This ghaleez nasal has got awareness now that you know you are salay nokar to nation not officers. Iss liay tumhain tung kar rahi ye baat.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "138",
+                "text_fragment": "This ghaleez nasal has got awareness now that you know you are salay nokar to nation not officers. Iss liay tumhain tung kar rahi ye baat.",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "5",
+                "end_index": "18",
+                "text_fragment": "ghaleez nasal",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "63",
+                "end_index": "84",
+                "text_fragment": "salay nokar to nation",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "This filthy scum has now realized that you know that you are a servant of the nation and not an officer. That's why this is bothering you."
+    },
+    "582": {
+        "id": "582",
+        "text": "guys lums wali generation hai. Inko lun ka nhi pta aur baten chudwa lo. Inki baato mein mut ao",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "70",
+                "text_fragment": "guys lums wali generation hai. Inko lun ka nhi pta aur baten chudwa lo",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "0",
+                "end_index": "94",
+                "text_fragment": "guys lums wali generation hai. Inko lun ka nhi pta aur baten chudwa lo. Inki baato mein mut ao",
+                "technique": "Reductio ad hitlerum"
+            },
+            {
+                "start_index": "0",
+                "end_index": "94",
+                "text_fragment": "guys lums wali generation hai. Inko lun ka nhi pta aur baten chudwa lo. Inki baato mein mut ao",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "36",
+                "end_index": "39",
+                "text_fragment": "lun",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "55",
+                "end_index": "70",
+                "text_fragment": "baten chudwa lo",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "Come on, the touch generation. Anko Lin Ka Nai PTA And Batin Chidwa Lo. Death comes in their words"
+    },
+    "110": {
+        "id": "110",
+        "text": "Pakistan mein rehne se acha hai insan gutter mein rah le kyunke even gutter is less shitty than this country and its people.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "56",
+                "text_fragment": "Pakistan mein rehne se acha hai insan gutter mein rah le",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "64",
+                "end_index": "123",
+                "text_fragment": "even gutter is less shitty than this country and its people",
+                "technique": "Exaggeration/Minimisation"
+            }
+        ],
+        "translation": "It is better to live in a sewer than to live in Pakistan because even the sewer is less dirty than this country and its people."
+    },
+    "286": {
+        "id": "286",
+        "text": "These modern generation women try to dominate their husbands aur phir jab wo talaq mun pe maarte hain toh roti hui ajati hein.",
+        "labels": [
+            {
+                "start_index": "106",
+                "end_index": "110",
+                "text_fragment": "roti",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "77",
+                "end_index": "82",
+                "text_fragment": "talaq",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "83",
+                "end_index": "96",
+                "text_fragment": "mun pe maarte",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "These modern generation women try to dominate their husbands and then when they get divorced, they are bread and butter."
+    },
+    "447": {
+        "id": "447",
+        "text": "Cancel culture is a tool used by feminists to silence everyone who doesn't agree with them. Bc meri biwi hai apni marzi se rakhun ga jo karna hai kar lo.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "90",
+                "text_fragment": "Cancel culture is a tool used by feminists to silence everyone who doesn't agree with them",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "0",
+                "end_index": "90",
+                "text_fragment": "Cancel culture is a tool used by feminists to silence everyone who doesn't agree with them",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "133",
+                "end_index": "152",
+                "text_fragment": "jo karna hai kar lo",
+                "technique": "Thought-terminating clich\u00e9"
+            },
+            {
+                "start_index": "92",
+                "end_index": "94",
+                "text_fragment": "Bc",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "Cancel culture is a tool used by feminists to silence anyone who disagrees with them. BC is my wife, I will keep it with my husband, do what you have to do."
+    },
+    "968": {
+        "id": "968",
+        "text": "Sharm ani chahye ap ko. Itni ghtya movie ko promote kr rhy han. Khuda ke azaab se daro",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "86",
+                "text_fragment": "Sharm ani chahye ap ko. Itni ghtya movie ko promote kr rhy han. Khuda ke azaab se daro",
+                "technique": "Appeal to fear/prejudice"
+            },
+            {
+                "start_index": "0",
+                "end_index": "86",
+                "text_fragment": "Sharm ani chahye ap ko. Itni ghtya movie ko promote kr rhy han. Khuda ke azaab se daro",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "73",
+                "end_index": "78",
+                "text_fragment": "azaab",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "Shame on you. Haan is promoting the film for so long. Fear God's punishment"
+    },
+    "404": {
+        "id": "404",
+        "text": "Aj kal nokraniyon ko kaam karne mein mout parti hain. Then if you beat them toh media domestic abuse bol ker defame karta hai.",
+        "labels": [
+            {
+                "start_index": "109",
+                "end_index": "115",
+                "text_fragment": "defame",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "37",
+                "end_index": "52",
+                "text_fragment": "mout parti hain",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "66",
+                "end_index": "75",
+                "text_fragment": "beat them",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "86",
+                "end_index": "100",
+                "text_fragment": "domestic abuse",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "Nowadays maids are death party in working. Then if you hit them, the domestic media is defamed by swearing."
+    },
+    "988": {
+        "id": "988",
+        "text": "Thank God he didn't shit in his pants in anger lol. Bhai ko koi pani pilao thanda ho jai thora.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "95",
+                "text_fragment": "Thank God he didn't shit in his pants in anger lol. Bhai ko koi pani pilao thanda ho jai thora.",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "0",
+                "end_index": "95",
+                "text_fragment": "Thank God he didn't shit in his pants in anger lol. Bhai ko koi pani pilao thanda ho jai thora.",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "20",
+                "end_index": "24",
+                "text_fragment": "shit",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "Thank god he didn't take off his pants in anger. Give your brother some water to cool down."
+    },
+    "894": {
+        "id": "894",
+        "text": "Isi wicket par last year we managed 240 on day 1 against Australia. They have scored 500! Unka mindset aur attacking intent next level hai, isko maanna paray ga!! Kitni boundaries aise balls par lagi jo k normal infact decent balls theen but unki intent was amazing!!",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "267",
+                "text_fragment": "Isi wicket par last year we managed 240 on day 1 against Australia. They have scored 500! Unka mindset aur attacking intent next level hai, isko maanna paray ga!! Kitni boundaries aise balls par lagi jo k normal infact decent balls theen but unki intent was amazing!!",
+                "technique": "Glittering generalities (Virtue)"
+            }
+        ],
+        "translation": "Their wickets look like last year we scored 240 on the first day against Australia. They have scored 500! Their mindset and intent to attack is next level, you have to believe it!! Cutney boundaries were hit on balls that were decent balls in reality but the intention was amazing!!"
+    },
+    "244": {
+        "id": "244",
+        "text": "Ab kia aurtein khule maidanon mein ghair mardon ke samne bhaagein gee? This is completely against our culture. Decency comes before this shitty sports.",
+        "labels": [
+            {
+                "start_index": "137",
+                "end_index": "143",
+                "text_fragment": "shitty",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "137",
+                "end_index": "150",
+                "text_fragment": "shitty sports",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "Now will the other three appear in the open fields in front of non-marduns? It is completely against our culture. Decency comes before these silly games."
+    },
+    "552": {
+        "id": "552",
+        "text": "So u fixed umpire and even the third empire to get rid of shakib hassan\u2026abe pakistani log tumhari aqal ghutne mei h",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "115",
+                "text_fragment": "So u fixed umpire and even the third empire to get rid of shakib hassan\u2026abe pakistani log tumhari aqal ghutne mei h",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "5",
+                "end_index": "17",
+                "text_fragment": "fixed umpire",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "98",
+                "end_index": "115",
+                "text_fragment": "aqal ghutne mei h",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "So you got rid of the fixed umpire and even the third umpire with Shakib Hasan."
+    },
+    "837": {
+        "id": "837",
+        "text": "Yaa post surely koi fazul indian kar reha hai. Make this Indian shut up guys. We dont want to listen any thing against Pak Army.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "128",
+                "text_fragment": "Yaa post surely koi fazul indian kar reha hai. Make this Indian shut up guys. We dont want to listen any thing against Pak Army.",
+                "technique": "Reductio ad hitlerum"
+            },
+            {
+                "start_index": "0",
+                "end_index": "128",
+                "text_fragment": "Yaa post surely koi fazul indian kar reha hai. Make this Indian shut up guys. We dont want to listen any thing against Pak Army.",
+                "technique": "Appeal to fear/prejudice"
+            },
+            {
+                "start_index": "0",
+                "end_index": "128",
+                "text_fragment": "Yaa post surely koi fazul indian kar reha hai. Make this Indian shut up guys. We dont want to listen any thing against Pak Army.",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "20",
+                "end_index": "32",
+                "text_fragment": "fazul indian",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "Yay the post is definitely being phased by an Indian. Shut up that Indian. We do not want to hear anything against Pakistan Army."
+    },
+    "667": {
+        "id": "667",
+        "text": "Mai marvi sarmat ki picture lagaon or mardo ki tareef karna shuru kardun tou sari ye aurat march wali be in favour of men then.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "127",
+                "text_fragment": "Mai marvi sarmat ki picture lagaon or mardo ki tareef karna shuru kardun tou sari ye aurat march wali be in favour of men then.",
+                "technique": "Exaggeration/Minimisation"
+            }
+        ],
+        "translation": "Put up a picture of My Marvi Sarmat or shout for men, then all this woman marching should be in favor of men."
+    },
+    "78": {
+        "id": "78",
+        "text": "Inn chutiyon ko sirf IPL mein khelna hota hai paisa kamane ke liye.Always flop in international cricket.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "66",
+                "text_fragment": "Inn chutiyon ko sirf IPL mein khelna hota hai paisa kamane ke liye",
+                "technique": "Causal Oversimplification"
+            },
+            {
+                "start_index": "4",
+                "end_index": "12",
+                "text_fragment": "chutiyon",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "67",
+                "end_index": "103",
+                "text_fragment": "Always flop in international cricket",
+                "technique": "Exaggeration/Minimisation"
+            }
+        ],
+        "translation": "These kids have to surf IPL to earn money. Always a flop in international cricket."
+    },
+    "1019": {
+        "id": "1019",
+        "text": "Beghairat banda tattay chuk kr k position to hasil kr leta hai per andar se rehta beghairat he hai chahe wo Medicine lena gea ho ya Neutral ho gea ho.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "150",
+                "text_fragment": "Beghairat banda tattay chuk kr k position to hasil kr leta hai per andar se rehta beghairat he hai chahe wo Medicine lena gea ho ya Neutral ho gea ho.",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "0",
+                "end_index": "150",
+                "text_fragment": "Beghairat banda tattay chuk kr k position to hasil kr leta hai per andar se rehta beghairat he hai chahe wo Medicine lena gea ho ya Neutral ho gea ho.",
+                "technique": "Obfuscation, Intentional vagueness, Confusion"
+            },
+            {
+                "start_index": "0",
+                "end_index": "15",
+                "text_fragment": "Beghairat banda",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "16",
+                "end_index": "22",
+                "text_fragment": "tattay",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "A dispassionate person gets it from the position by looking at it, but the dispassionate that lives inside is the same whether he has taken medicine or has become neutral."
+    },
+    "178": {
+        "id": "178",
+        "text": "Malik Riaz is a cult. PPP ke saath mil kar paani ke daamon zamin kharredi hai to make Bahria Town Karachi.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "105",
+                "text_fragment": "Malik Riaz is a cult. PPP ke saath mil kar paani ke daamon zamin kharredi hai to make Bahria Town Karachi",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "16",
+                "end_index": "20",
+                "text_fragment": "cult",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "Malik Riaz is a religion. Waterfront land is being purchased in collaboration with PPP to build Bahria Town Karachi."
+    },
+    "693": {
+        "id": "693",
+        "text": "Ye kon mard hazrat hain jo har march pe kehtay hain \u201coh i didnt know things were this bad for women :/\u201c kaisey nahi pata tha? were the millions of reports abt violence against women, discrimination, harassment, no women visible in government/politics not enough? Are you blind?",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "277",
+                "text_fragment": "Ye kon mard hazrat hain jo har march pe kehtay hain \u201coh i didnt know things were this bad for women :/\u201c kaisey nahi pata tha? were the millions of reports abt violence against women, discrimination, harassment, no women visible in government/politics not enough? Are you blind?",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "126",
+                "end_index": "262",
+                "text_fragment": "were the millions of reports abt violence against women, discrimination, harassment, no women visible in government/politics not enough?",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "159",
+                "end_index": "167",
+                "text_fragment": "violence",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "183",
+                "end_index": "197",
+                "text_fragment": "discrimination",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "199",
+                "end_index": "209",
+                "text_fragment": "harassment",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "Who are these male saints who say at every march \"Oh I didn't know these things were bad for women :/\" Who didn't know? Were the millions of reports of violence against women, discrimination, harassment, absence of women in government/politics not enough? are you blind"
+    },
+    "141": {
+        "id": "141",
+        "text": "French ambassador should be hanged publically at D chowk. France ko bhi pta chalna chahiye kaise hum apne nabi ki toheen pe khoon ki nadiyan baha dete hain.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "156",
+                "text_fragment": "French ambassador should be hanged publically at D chowk. France ko bhi pta chalna chahiye kaise hum apne nabi ki toheen pe khoon ki nadiyan baha dete hain.",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "124",
+                "end_index": "140",
+                "text_fragment": "khoon ki nadiyan",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "28",
+                "end_index": "34",
+                "text_fragment": "hanged",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "The French ambassador should be publicly hanged on D Square. France should also run PTA who we shed rivers of blood for insulting our prophet."
+    },
+    "351": {
+        "id": "351",
+        "text": "Aik dafa CPEC ban gya toh China hum pe qabza kar le ga. Wake up Pakistanis, don't give them so much power.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "105",
+                "text_fragment": "Aik dafa CPEC ban gya toh China hum pe qabza kar le ga. Wake up Pakistanis, don't give them so much power",
+                "technique": "Flag-waving"
+            },
+            {
+                "start_index": "0",
+                "end_index": "105",
+                "text_fragment": "Aik dafa CPEC ban gya toh China hum pe qabza kar le ga. Wake up Pakistanis, don't give them so much power",
+                "technique": "Appeal to fear/prejudice"
+            },
+            {
+                "start_index": "0",
+                "end_index": "54",
+                "text_fragment": "Aik dafa CPEC ban gya toh China hum pe qabza kar le ga",
+                "technique": "Exaggeration/Minimisation"
+            }
+        ],
+        "translation": "If CPEC is built, China will control us. Wake up Pakistanis, don't give them so much power."
+    },
+    "346": {
+        "id": "346",
+        "text": "Suna tha the uglier the woman, the more feminist she is. Aurat March ki participants ko dekh ke yaqeen bhi aagaya lol.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "55",
+                "text_fragment": "Suna tha the uglier the woman, the more feminist she is",
+                "technique": "Causal Oversimplification"
+            }
+        ],
+        "translation": "The uglier a woman Gold is, the more feminist she is. Seeing the participants of the women's march, Yaqin also came lol."
+    },
+    "694": {
+        "id": "694",
+        "text": "This has the same energy as all those men who kept saying shit like \u201comg so this is what women go through their whole lives?!\u201d jese tum masoom dumbos ko pata nai hai what women go through.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "188",
+                "text_fragment": "This has the same energy as all those men who kept saying shit like \u201comg so this is what women go through their whole lives?!\u201d jese tum masoom dumbos ko pata nai hai what women go through.",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "136",
+                "end_index": "149",
+                "text_fragment": "masoom dumbos",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "58",
+                "end_index": "62",
+                "text_fragment": "shit",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "It has the same energy as all the men who keep saying like shit, \"OMG is this what women go through their whole lives?!\" jese tum masoom dumbos ko pata nai hai what situations women go through."
+    },
+    "221": {
+        "id": "221",
+        "text": "Using credit cards is haram in Islam. Khuda musalmanon ko iss kafiron ke nizaam se bachaye.",
+        "labels": [
+            {
+                "start_index": "22",
+                "end_index": "27",
+                "text_fragment": "haram",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "62",
+                "end_index": "79",
+                "text_fragment": "kafiron ke nizaam",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "Using credit card is forbidden in Islam. May God save Muslims from this infidel system."
+    },
+    "499": {
+        "id": "499",
+        "text": "This hook up culture is another name for casual sex and fucking around. Shaadi karni nhi hoti har mahinay aik naye larki larki se yaari lagani hoti hai.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "70",
+                "text_fragment": "This hook up culture is another name for casual sex and fucking around",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "41",
+                "end_index": "51",
+                "text_fragment": "casual sex",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "5",
+                "end_index": "20",
+                "text_fragment": "hook up culture",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "56",
+                "end_index": "63",
+                "text_fragment": "fucking",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "71",
+                "end_index": "151",
+                "text_fragment": " Shaadi karni nhi hoti har mahinay aik naye larki larki se yaari lagani hoti hai",
+                "technique": "Exaggeration/Minimisation"
+            }
+        ],
+        "translation": "This hookup culture is another name for casual sex and hanging out. You don't have to get married, you have to hook up with a new larky larky every month."
+    },
+    "595": {
+        "id": "595",
+        "text": "A 10 years old boy is dying with convulsive gasps sobbing and writhing in his mother's lap... why ?? Just because there was no anti-rabies vaccination in the Larkana hospital. Barbad kr dia hmry mulk ko. Kha gaey sub kch or phr hm kehty hain jiye bhutto , Bhutto zinda hai...",
+        "labels": [
+            {
+                "start_index": "22",
+                "end_index": "27",
+                "text_fragment": "dying",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "242",
+                "end_index": "253",
+                "text_fragment": "jiye bhutto",
+                "technique": "Slogans"
+            },
+            {
+                "start_index": "256",
+                "end_index": "272",
+                "text_fragment": "Bhutto zinda hai",
+                "technique": "Slogans"
+            }
+        ],
+        "translation": "A 10 year old boy is sobbing and dying in his mother's arms... Why?? Just because the hospital in Larkana did not have anti-rabies vaccination. Ruined our country. Eat everything or we say long live Bhutto, Bhutto is alive..."
+    },
+    "940": {
+        "id": "940",
+        "text": "Aap jese jahil doctor ko mein pehli dafa zindagi mein dekha hai. Bloody idiot.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "78",
+                "text_fragment": "Aap jese jahil doctor ko mein pehli dafa zindagi mein dekha hai. Bloody idiot.",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "65",
+                "end_index": "77",
+                "text_fragment": "Bloody idiot",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "9",
+                "end_index": "21",
+                "text_fragment": "jahil doctor",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "I have seen an ignorant doctor like you for the first time in my life. Bloody idiot."
+    },
+    "381": {
+        "id": "381",
+        "text": "I prefer not hiring women who have kids. Unka saara dhyaan bachon mein lga hota hai kaam kya krein gi.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "101",
+                "text_fragment": "I prefer not hiring women who have kids. Unka saara dhyaan bachon mein lga hota hai kaam kya krein gi",
+                "technique": "Exaggeration/Minimisation"
+            }
+        ],
+        "translation": "I do not prefer to employ women who have children. All their attention is focused on Bachon."
+    },
+    "204": {
+        "id": "204",
+        "text": "PhDs from Pakistan are completely worthless. Jis mulk ne 70 saal mein dam nhi bnae woh education sector mein kya kre ga.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "43",
+                "text_fragment": "PhDs from Pakistan are completely worthless",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "45",
+                "end_index": "119",
+                "text_fragment": "Jis mulk ne 70 saal mein dam nhi bnae woh education sector mein kya kre ga",
+                "technique": "Presenting Irrelevant Data (Red Herring)"
+            }
+        ],
+        "translation": "PhDs from Pakistan are totally worthless. What will the country which will not build dams in 70 years do in the field of education?"
+    },
+    "359": {
+        "id": "359",
+        "text": "Aurat aulad ke baghair na mukammal hai. It is her biological purpose to give birth.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "82",
+                "text_fragment": "Aurat aulad ke baghair na mukammal hai. It is her biological purpose to give birth",
+                "technique": "Causal Oversimplification"
+            }
+        ],
+        "translation": "A woman is not a woman without children. Procreation is its biological purpose."
+    },
+    "319": {
+        "id": "319",
+        "text": "Judicial system, army and bureaucrats are all a cult in this country. Sirf lotairon ko hakumat mein laate hain taake sub mil ke awaam ka estehsaal krein aur apne bank bharein.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "52",
+                "text_fragment": "Judicial system, army and bureaucrats are all a cult",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "70",
+                "end_index": "174",
+                "text_fragment": "Sirf lotairon ko hakumat mein laate hain taake sub mil ke awaam ka estehsaal krein aur apne bank bharein",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "75",
+                "end_index": "83",
+                "text_fragment": "lotairon",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "In this country, the judicial system, the army and the bureaucrats are all a sect. The serfs bring the looters to order"
+    },
+    "707": {
+        "id": "707",
+        "text": "Watching porn is okay, watching a show full of abuses like Mirzapur is okay, watching english movies and all the sex scenes are okay. Uss sub se inka Islam khatray mai nahi ata but watching Joyland is where these so called religious people draw the line",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "133",
+                "text_fragment": "Watching porn is okay, watching a show full of abuses like Mirzapur is okay, watching english movies and all the sex scenes are okay.",
+                "technique": "Repetition"
+            },
+            {
+                "start_index": "113",
+                "end_index": "116",
+                "text_fragment": "sex",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "213",
+                "end_index": "239",
+                "text_fragment": "so called religious people",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "47",
+                "end_index": "53",
+                "text_fragment": "abuses",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "9",
+                "end_index": "13",
+                "text_fragment": "porn",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "It is ok to watch porn, it is ok to watch shows full of swear words like Mirzapur, it is ok to watch English movies and all the sex scenes are ok. All this does not affect their Islam, but seeing Joyland, these so-called religious people draw a line."
+    },
+    "543": {
+        "id": "543",
+        "text": "I can't believe my eyes... Khuda knew that iss qoum ki hazaaron takleefon K bawajood sirf ye choti si khushi kitni matter karti hai.. This is literally Qudrat ka Nizaam",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "168",
+                "text_fragment": "I can't believe my eyes... Khuda knew that iss qoum ki hazaaron takleefon K bawajood sirf ye choti si khushi kitni matter karti hai.. This is literally Qudrat ka Nizaam",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "0",
+                "end_index": "168",
+                "text_fragment": "I can't believe my eyes... Khuda knew that iss qoum ki hazaaron takleefon K bawajood sirf ye choti si khushi kitni matter karti hai.. This is literally Qudrat ka Nizaam",
+                "technique": "Causal Oversimplification"
+            },
+            {
+                "start_index": "64",
+                "end_index": "73",
+                "text_fragment": "takleefon",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "I can't believe my eyes... God knew how much this little happiness matters despite the thousand sufferings of this nation.. It's literally a system of nature."
+    },
+    "825": {
+        "id": "825",
+        "text": "Agar ab se pehley politically motivated they tou in saroon ka court marshall kuro. Aur saza dou saza dou saza dou saza dou.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "123",
+                "text_fragment": "Agar ab se pehley politically motivated they tou in saroon ka court marshall kuro. Aur saza dou saza dou saza dou saza dou.",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "87",
+                "end_index": "123",
+                "text_fragment": "saza dou saza dou saza dou saza dou.",
+                "technique": "Repetition"
+            }
+        ],
+        "translation": "If they are motivated politically before now, they should court martial Saron. Gold one hundred two hundred two hundred two hundred two."
+    },
+    "903": {
+        "id": "903",
+        "text": "Maza aya? Your chockli and Shit man Sharma showing their team's aukat to the whole world. Our Babar is a gem unlike your most embarrassing Shitman Sharma. Mota gendu kahin ka.",
+        "labels": [
+            {
+                "start_index": "10",
+                "end_index": "89",
+                "text_fragment": "Your chockli and Shit man Sharma showing their team's aukat to the whole world.",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "139",
+                "end_index": "153",
+                "text_fragment": "Shitman Sharma",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "15",
+                "end_index": "22",
+                "text_fragment": "chockli",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "155",
+                "end_index": "165",
+                "text_fragment": "Mota gendu",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "27",
+                "end_index": "42",
+                "text_fragment": "Shit man Sharma",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "90",
+                "end_index": "153",
+                "text_fragment": "Our Babar is a gem unlike your most embarrassing Shitman Sharma",
+                "technique": "Glittering generalities (Virtue)"
+            }
+        ],
+        "translation": "Maza aya? Aap Chokli and Shetman Sharma are showing their team's octave to the whole world. Our Babar is a gem unlike your very shy Shatman Sharma. A fat ball somewhere."
+    },
+    "250": {
+        "id": "250",
+        "text": "Prostitutes and wives are no different honestly. Paisa lene ke baad dono saath nhi deti.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "11",
+                "text_fragment": "Prostitutes",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "0",
+                "end_index": "87",
+                "text_fragment": "Prostitutes and wives are no different honestly. Paisa lene ke baad dono saath nhi deti",
+                "technique": "Exaggeration/Minimisation"
+            }
+        ],
+        "translation": "Prostitutes and wives are honestly no different. Dono does not cooperate after taking money."
+    },
+    "830": {
+        "id": "830",
+        "text": "Why ISPR and why not Gen. Bajwa himself come forward and explain how much his wealth including his wife, children and their spouses spent. He served as Super Political Boss and he is bound to give a public explanation. By hiding behind ISPR he is proving he is a chor. Does he have something to hide?",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "300",
+                "text_fragment": "Why ISPR and why not Gen. Bajwa himself come forward and explain how much his wealth including his wife, children and their spouses spent. He served as Super Political Boss and he is bound to give a public explanation. By hiding behind ISPR he is proving he is a chor. Does he have something to hide?",
+                "technique": "Doubt"
+            },
+            {
+                "start_index": "0",
+                "end_index": "268",
+                "text_fragment": "Why ISPR and why not Gen. Bajwa himself come forward and explain how much his wealth including his wife, children and their spouses spent. He served as Super Political Boss and he is bound to give a public explanation. By hiding behind ISPR he is proving he is a chor.",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "263",
+                "end_index": "267",
+                "text_fragment": "chor",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "Why ISPR and not General? Bajwa himself came forward and told how much his wealth including his wife, children and spouses spent. He acted as a super political boss and is bound to give a public explanation. Hiding behind ISPR is proving that he is a choir. Does he have something to hide?"
+    },
+    "905": {
+        "id": "905",
+        "text": "Besharam aurat! Instead of asking her husband that where the money is coming from, she agreed to become the billionaire.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "14",
+                "text_fragment": "Besharam aurat",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "0",
+                "end_index": "120",
+                "text_fragment": "Besharam aurat! Instead of asking her husband that where the money is coming from, she agreed to become the billionaire.",
+                "technique": "Smears"
+            }
+        ],
+        "translation": "Shameless gold! Instead of asking her husband where the money is coming from, she agrees to become a billionaire."
+    },
+    "323": {
+        "id": "323",
+        "text": "\"Black lives matter\" toh do other lives not? Ajeeb ye kaale ziada hi over ho rhe hain ab.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "20",
+                "text_fragment": "\"Black lives matter\"",
+                "technique": "Slogans"
+            },
+            {
+                "start_index": "54",
+                "end_index": "60",
+                "text_fragment": "kaale ",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "\"Black Lives Matter\" But Don't Other Lives? Strangely, these black Zetas are getting over now."
+    },
+    "516": {
+        "id": "516",
+        "text": "just saw someone dressed as a Foodpanda rider for Halloween. iss mulk ke ameeron ke galay kab katenge?!",
+        "labels": [
+            {
+                "start_index": "65",
+                "end_index": "80",
+                "text_fragment": "mulk ke ameeron",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "84",
+                "end_index": "101",
+                "text_fragment": "galay kab katenge",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "Just saw someone dressed up as a food panda rider for Halloween. How long will it last for the rich of the country?!"
+    },
+    "518": {
+        "id": "518",
+        "text": "Imran Khan rules on hearts \n\n\u200eThese are not people who sell their conscience for a box of biryani, but people who fight for Haqiqi Aazadi",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "27",
+                "text_fragment": "Imran Khan rules on hearts ",
+                "technique": "Glittering generalities (Virtue)"
+            },
+            {
+                "start_index": "55",
+                "end_index": "97",
+                "text_fragment": "sell their conscience for a box of biryani",
+                "technique": "Exaggeration/Minimisation"
+            }
+        ],
+        "translation": "Imran Khan rules hearts.\n\nThese are not people who sell their conscience for a box of Biryani, but people who fight for true freedom."
+    },
+    "7": {
+        "id": "7",
+        "text": "Kya yeh hai Imran Khan ka Naya Pakistan? Bad administration and rampant inflation, an absolute failure.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "103",
+                "text_fragment": "Kya yeh hai Imran Khan ka Naya Pakistan? Bad administration and rampant inflation, an absolute failure.",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "26",
+                "end_index": "39",
+                "text_fragment": "Naya Pakistan",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "41",
+                "end_index": "59",
+                "text_fragment": "Bad administration",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "41",
+                "end_index": "44",
+                "text_fragment": "Bad",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "64",
+                "end_index": "81",
+                "text_fragment": "rampant inflation",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "64",
+                "end_index": "71",
+                "text_fragment": "rampant",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "Is this Imran Khan's new Pakistan? Bad management and rampant inflation, a total failure."
+    },
+    "1017": {
+        "id": "1017",
+        "text": "Nawaz shareef ko leader keh krr leader lafz ko ganda na karen please.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "69",
+                "text_fragment": "Nawaz shareef ko leader keh krr leader lafz ko ganda na karen please.",
+                "technique": "Smears"
+            }
+        ],
+        "translation": "Please don't bully the leaders by calling Nawaz Sharif as a leader."
+    },
+    "876": {
+        "id": "876",
+        "text": "PTA ko koi strict action lena pary ga, Tiktok have become mujra app affecting society",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "85",
+                "text_fragment": "PTA ko koi strict action lena pary ga, Tiktok have become mujra app affecting society",
+                "technique": "Appeal to fear/prejudice"
+            },
+            {
+                "start_index": "0",
+                "end_index": "85",
+                "text_fragment": "PTA ko koi strict action lena pary ga, Tiktok have become mujra app affecting society",
+                "technique": "Flag-waving"
+            },
+            {
+                "start_index": "0",
+                "end_index": "85",
+                "text_fragment": "PTA ko koi strict action lena pary ga, Tiktok have become mujra app affecting society",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "39",
+                "end_index": "67",
+                "text_fragment": "Tiktok have become mujra app",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "PTA will be forced to take any strict action, Tik Tok has become a social impact app"
+    },
+    "753": {
+        "id": "753",
+        "text": "There is this movie \"tich button\" releasing soon. I've watched the trailer usy dekh k lagta hai k fuzool c copy hai Indian movies ki but we can also make genuine one. Just be ourselves and don't try to overdue on accent or item numbers or indian culture per se",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "132",
+                "text_fragment": "There is this movie \"tich button\" releasing soon. I've watched the trailer usy dekh k lagta hai k fuzool c copy hai Indian movies ki",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "0",
+                "end_index": "260",
+                "text_fragment": "There is this movie \"tich button\" releasing soon. I've watched the trailer usy dekh k lagta hai k fuzool c copy hai Indian movies ki but we can also make genuine one. Just be ourselves and don't try to overdue on accent or item numbers or indian culture per se",
+                "technique": "Presenting Irrelevant Data (Red Herring)"
+            }
+        ],
+        "translation": "This movie \"Touch Button\" is going to release soon. I have seen the trailer of usy dekh k lagta hai k fuzol c copy hai Indian movies but we can also make a real movie. Just be yourself and don't try to overdo it in terms of accents or item numbers or Indian culture."
+    },
+    "532": {
+        "id": "532",
+        "text": "Pakistan ma LGBTQ lobby pichlay 10 saalo sa chup kar zor o shoor sy kaam kar rhi hay. LGBTQ lobby na bohat hoshiyari sy Pakistan ky Islamic constitutions ky khilaaf qanoon pass karwaya hy jiska naam Transgender Act 2018 hy. Enka mission Homosexual marriage ko legal karwana hy.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "277",
+                "text_fragment": "Pakistan ma LGBTQ lobby pichlay 10 saalo sa chup kar zor o shoor sy kaam kar rhi hay. LGBTQ lobby na bohat hoshiyari sy Pakistan ky Islamic constitutions ky khilaaf qanoon pass karwaya hy jiska naam Transgender Act 2018 hy. Enka mission Homosexual marriage ko legal karwana hy.",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "0",
+                "end_index": "276",
+                "text_fragment": "Pakistan ma LGBTQ lobby pichlay 10 saalo sa chup kar zor o shoor sy kaam kar rhi hay. LGBTQ lobby na bohat hoshiyari sy Pakistan ky Islamic constitutions ky khilaaf qanoon pass karwaya hy jiska naam Transgender Act 2018 hy. Enka mission Homosexual marriage ko legal karwana hy",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "12",
+                "end_index": "17",
+                "text_fragment": "LGBTQ",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "12",
+                "end_index": "17",
+                "text_fragment": "LGBTQ",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "237",
+                "end_index": "256",
+                "text_fragment": "Homosexual marriage",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "The LGBTQ lobby in Pakistan has been working quietly and loudly for the past 10 years. The LGBTQ lobby has unwisely passed a law against the Islamic constitution of Pakistan called the Transgender Act 2018. Their mission is to legalize same-sex marriage."
+    },
+    "531": {
+        "id": "531",
+        "text": "very bold of army officers to be running propaganda videos saying \u201cmushkil aaye gi toh siyasatdaan bhaag jaayein ge sirf aap ke muhafiz kharay rahein ge\u201d when raheel sharif doesn\u2019t live in pakistan, musharraf\u2019s on his death bed in dubai and gen. bajwa\u2019s children live abroad too.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "279",
+                "text_fragment": "very bold of army officers to be running propaganda videos saying \u201cmushkil aaye gi toh siyasatdaan bhaag jaayein ge sirf aap ke muhafiz kharay rahein ge\u201d when raheel sharif doesn\u2019t live in pakistan, musharraf\u2019s on his death bed in dubai and gen. bajwa\u2019s children live abroad too.",
+                "technique": "Misrepresentation of Someone's Position (Straw Man)"
+            },
+            {
+                "start_index": "0",
+                "end_index": "279",
+                "text_fragment": "very bold of army officers to be running propaganda videos saying \u201cmushkil aaye gi toh siyasatdaan bhaag jaayein ge sirf aap ke muhafiz kharay rahein ge\u201d when raheel sharif doesn\u2019t live in pakistan, musharraf\u2019s on his death bed in dubai and gen. bajwa\u2019s children live abroad too.",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "0",
+                "end_index": "153",
+                "text_fragment": "very bold of army officers to be running propaganda videos saying \u201cmushkil aaye gi toh siyasatdaan bhaag jaayein ge sirf aap ke muhafiz kharay rahein ge\u201d",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "128",
+                "end_index": "135",
+                "text_fragment": "muhafiz",
+                "technique": "Name calling/Labeling"
+            },
+            {
+                "start_index": "218",
+                "end_index": "227",
+                "text_fragment": "death bed",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "Army officers are playing very bold propaganda videos saying \"Maschal aaye gi to sia satdan bhag gaye gi sarf aap ake khare rahe rahe gi\" When Raheel Sharif does not live in Pakistan, Musharraf is on his deathbed in Dubai and Jain. Bajwa's children also live abroad."
+    },
+    "972": {
+        "id": "972",
+        "text": "Rab ke nafrmane to hum already kr rahy hai. Atleast lets not make that gunnah public for everyone to see. Khuda ke azaab ko dawat na dou. Delete kr dae yeh tweet aur apny Rab sy tobah krai",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "188",
+                "text_fragment": "Rab ke nafrmane to hum already kr rahy hai. Atleast lets not make that gunnah public for everyone to see. Khuda ke azaab ko dawat na dou. Delete kr dae yeh tweet aur apny Rab sy tobah krai",
+                "technique": "Appeal to fear/prejudice"
+            },
+            {
+                "start_index": "115",
+                "end_index": "120",
+                "text_fragment": "azaab",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "We are already doing the Lord's orders. At least let's not make this crime public for all to see. Do not invite God's punishment. Delete this tweet and repent to your Lord"
+    },
+    "834": {
+        "id": "834",
+        "text": "As we all know in big guns circles a term used \"Get a promotion with wife swap\". Baqi aap samajhdar ho keh keya matlab hey es ka",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "128",
+                "text_fragment": "As we all know in big guns circles a term used \"Get a promotion with wife swap\". Baqi aap samajhdar ho keh keya matlab hey es ka",
+                "technique": "Obfuscation, Intentional vagueness, Confusion"
+            }
+        ],
+        "translation": "As we all know there is a term used in big gun circles \"get a promotion with a wife swap\". The rest of you should understand what it means"
+    },
+    "898": {
+        "id": "898",
+        "text": "Imran Khan keh raha hai isko follow nai karna chahye tou isko unfollow karna is the best option. We will always follow you Imran Khan.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "96",
+                "text_fragment": "Imran Khan keh raha hai isko follow nai karna chahye tou isko unfollow karna is the best option.",
+                "technique": "Appeal to authority"
+            }
+        ],
+        "translation": "Imran Khan is saying that if you don't want to follow him, unfollowing him is the best option. We will always follow Imran Khan."
+    },
+    "895": {
+        "id": "895",
+        "text": "Excuse me? Hum Imran Khan se kyun poochain? Nawaz Sharif jab tabahi macha raha tha mulk tab tum logon ne uss se poocha?",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "119",
+                "text_fragment": "Excuse me? Hum Imran Khan se kyun poochain? Nawaz Sharif jab tabahi macha raha tha mulk tab tum logon ne uss se poocha?",
+                "technique": "Whataboutism"
+            }
+        ],
+        "translation": "Excuse me? Why do we ask Imran Khan? Nawaz Sharif, when the devastation was going on, did you ask him about the country?"
+    },
+    "826": {
+        "id": "826",
+        "text": "According to you India doesn't care but jakr PCB kai kisi b post dekhlo Indians hee bhonkte huay milainge or is post pr bhi toiletless bekhari country",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "150",
+                "text_fragment": "According to you India doesn't care but jakr PCB kai kisi b post dekhlo Indians hee bhonkte huay milainge or is post pr bhi toiletless bekhari country",
+                "technique": "Misrepresentation of Someone's Position (Straw Man)"
+            },
+            {
+                "start_index": "124",
+                "end_index": "150",
+                "text_fragment": "toiletless bekhari country",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "According to you, India doesn't care, but go and look at any post of PCB and you will find that Indians are barking, or it is still a country without a toilet."
+    },
+    "51": {
+        "id": "51",
+        "text": "The people are just as corrupt as our politicians. Jaise awaam waise hukamraan lol.",
+        "labels": [
+            {
+                "start_index": "23",
+                "end_index": "30",
+                "text_fragment": "corrupt",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "51",
+                "end_index": "78",
+                "text_fragment": "Jaise awaam waise hukamraan",
+                "technique": "Thought-terminating clich\u00e9"
+            }
+        ],
+        "translation": "People are as corrupt as our politicians. Rule like the people."
+    },
+    "395": {
+        "id": "395",
+        "text": "Joyland ko ban karne ke liye dekhna zaroori nhi hai concept hi ghatia hai. You don't need to step on shit to tell it's filthy.",
+        "labels": [
+            {
+                "start_index": "101",
+                "end_index": "105",
+                "text_fragment": "shit",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "63",
+                "end_index": "69",
+                "text_fragment": "ghatia",
+                "technique": "Loaded Language"
+            },
+            {
+                "start_index": "75",
+                "end_index": "125",
+                "text_fragment": "You don't need to step on shit to tell it's filthy",
+                "technique": "Slogans"
+            }
+        ],
+        "translation": "You don't have to see Joyland to believe the concept is crap. You don't have to step on dirt to know it's dirty."
+    },
+    "522": {
+        "id": "522",
+        "text": "I wanted to go too but my ama said \" chaly jaou lakin agar zalzala aya aur cinema girrgaya tou mey kia boloungy sabko k bety movie theatre mey marri..\" and this killed the buzz for me.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "151",
+                "text_fragment": "I wanted to go too but my ama said \" chaly jaou lakin agar zalzala aya aur cinema girrgaya tou mey kia boloungy sabko k bety movie theatre mey marri..\"",
+                "technique": "Appeal to fear/prejudice"
+            },
+            {
+                "start_index": "143",
+                "end_index": "148",
+                "text_fragment": "marri",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "I also wanted to go but my mother said \"go away if there is an earthquake and the cinema collapses to me kya bolongi sabko ke beti theater me shadi...\" and she shouted for me."
+    },
+    "599": {
+        "id": "599",
+        "text": "internet fame mein aker tum jese jahil log apna sab kuch bech daaltay ho.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "73",
+                "text_fragment": "internet fame mein aker tum jese jahil log apna sab kuch bech daaltay ho.",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "33",
+                "end_index": "42",
+                "text_fragment": "jahil log",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "Ignorant people like you sell everything you have for internet fame"
+    },
+    "15": {
+        "id": "15",
+        "text": "Imran Khan is wearing sunglasses during the night,why?because of cocaine eyes. Ye banda full cocaine ke nashe mein tun hota hai mulk ki sarbrahi khaak kre ga.\n",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "77",
+                "text_fragment": "Imran Khan is wearing sunglasses during the night,why?because of cocaine eyes",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "0",
+                "end_index": "77",
+                "text_fragment": "Imran Khan is wearing sunglasses during the night,why?because of cocaine eyes",
+                "technique": "Causal Oversimplification"
+            },
+            {
+                "start_index": "0",
+                "end_index": "158",
+                "text_fragment": "Imran Khan is wearing sunglasses during the night,why?because of cocaine eyes. Ye banda full cocaine ke nashe mein tun hota hai mulk ki sarbrahi khaak kre ga.",
+                "technique": "Presenting Irrelevant Data (Red Herring)"
+            },
+            {
+                "start_index": "79",
+                "end_index": "157",
+                "text_fragment": "Ye banda full cocaine ke nashe mein tun hota hai mulk ki sarbrahi khaak kre ga",
+                "technique": "Smears"
+            }
+        ],
+        "translation": "Imran Khan wears glasses at night, because of cocaine eyes? This guy is completely drunk on cocaine, you are the leader of the country.\n"
+    },
+    "696": {
+        "id": "696",
+        "text": "When a guy says \"iss py Mard March bnta hai\" to ghalat kia or agar larki keh dy to its normal. Double standards.\nAsim Azhar qadam brhao ham tumharay sath hain.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "93",
+                "text_fragment": "When a guy says \"iss py Mard March bnta hai\" to ghalat kia or agar larki keh dy to its normal",
+                "technique": "Whataboutism"
+            },
+            {
+                "start_index": "0",
+                "end_index": "112",
+                "text_fragment": "When a guy says \"iss py Mard March bnta hai\" to ghalat kia or agar larki keh dy to its normal. Double standards.",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "0",
+                "end_index": "159",
+                "text_fragment": "When a guy says \"iss py Mard March bnta hai\" to ghalat kia or agar larki keh dy to its normal. Double standards.\nAsim Azhar qadam brhao ham tumharay sath hain.",
+                "technique": "Appeal to fear/prejudice"
+            }
+        ],
+        "translation": "When a boy says \"is pe mard mard banta hai\" is wrong or if a girl says normal. double standard.\nAsim Azhar Kadam Brao we are with you."
+    },
+    "721": {
+        "id": "721",
+        "text": "DHA, Bahria, Beaconhouse type ke brand se le k kisi aam galli mohala mein hr acha bura kaam hora. Hmein burae k khilaf lrna hai. Ye quom kharaab hota ja raha hai. Humain iss mulk ko bachanay ke liay aik solution bnana hoga awareness k lye safety k lye tarbiyat k lye.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "97",
+                "text_fragment": "DHA, Bahria, Beaconhouse type ke brand se le k kisi aam galli mohala mein hr acha bura kaam hora.",
+                "technique": "Exaggeration/Minimisation"
+            },
+            {
+                "start_index": "98",
+                "end_index": "267",
+                "text_fragment": "Hmein burae k khilaf lrna hai. Ye quom kharaab hota ja raha hai. Humain iss mulk ko bachanay ke liay aik solution bnana hoga awareness k lye safety k lye tarbiyat k lye.",
+                "technique": "Flag-waving"
+            },
+            {
+                "start_index": "98",
+                "end_index": "267",
+                "text_fragment": "Hmein burae k khilaf lrna hai. Ye quom kharaab hota ja raha hai. Humain iss mulk ko bachanay ke liay aik solution bnana hoga awareness k lye safety k lye tarbiyat k lye.",
+                "technique": "Appeal to fear/prejudice"
+            }
+        ],
+        "translation": "From brands like DHA, Bahria, Beaconhouse, there are good and bad things happening in a normal street neighborhood. We have to be against evil. This nation is getting worse. Humain Iss Mulk ko Bachanay ke liye aik solution bna hoga awareness Klye Safety Klye Tarbiyat Klye."
+    },
+    "38": {
+        "id": "38",
+        "text": "Pakistan ne bankrupt hojana soon.Pack your bags aur nikal lo Canada before it's too late.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "88",
+                "text_fragment": "Pakistan ne bankrupt hojana soon.Pack your bags aur nikal lo Canada before it's too late",
+                "technique": "Appeal to fear/prejudice"
+            },
+            {
+                "start_index": "12",
+                "end_index": "20",
+                "text_fragment": "bankrupt",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "Pakistan will bankrupt us soon pack your bags and get out of Canada before it's too late."
+    },
+    "893": {
+        "id": "893",
+        "text": "A player who promotes his wife's movies is a good husband.. magar aik husband apni biwi ke liay campaign karay in elections is spreading hatred and fear?",
+        "labels": [
+            {
+                "start_index": "60",
+                "end_index": "153",
+                "text_fragment": "magar aik husband apni biwi ke liay campaign karay in elections is spreading hatred and fear?",
+                "technique": "Doubt"
+            }
+        ],
+        "translation": "A player who promotes his wife's films is a good husband.. magar aik husband spreading hatred and fear by campaigning for his wife?"
+    },
+    "992": {
+        "id": "992",
+        "text": "Hr bndy ki apni opinion hai or yeh uska right bhi hai lekin esi tweet k nechy jo k hmary dushmn mulk ko support karti hai usko kam se kam mat support karo. Hum sab apni army ko support kartay hain tumhain bhi apni army ko support karna chahye rather than you demoralizing and defaming them.",
+        "labels": [
+            {
+                "start_index": "156",
+                "end_index": "290",
+                "text_fragment": "Hum sab apni army ko support kartay hain tumhain bhi apni army ko support karna chahye rather than you demoralizing and defaming them.",
+                "technique": "Bandwagon"
+            }
+        ],
+        "translation": "HR Bandi has his own opinion or it is fine with us but support such a tweet which supports our enemy country from work to work. We all support our army, you should also support your army instead of demoralizing and defaming them."
+    },
+    "515": {
+        "id": "515",
+        "text": "Stop creating diversion between pakistan people. Hum sab pakistani hain phr cast wise.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "86",
+                "text_fragment": "Stop creating diversion between pakistan people. Hum sab pakistani hain phr cast wise.",
+                "technique": "Misrepresentation of Someone's Position (Straw Man)"
+            }
+        ],
+        "translation": "Stop creating division among Pakistani people. We are all Pakistanis."
+    },
+    "374": {
+        "id": "374",
+        "text": "Women are emotional so they aren't fit to lead. Khuda ne mard ko sarbrah bnaya hai yaqeenan issi mein maslehat hai.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "46",
+                "text_fragment": "Women are emotional so they aren't fit to lead",
+                "technique": "Causal Oversimplification"
+            }
+        ],
+        "translation": "Women are emotional so they are not capable of leadership. God has made man the head, surely there is an expedient in it."
+    },
+    "979": {
+        "id": "979",
+        "text": "Fahashi ki buniaad he yahi social media and electronic media hai. Inn nojawanon ko iss fahashi se duur rakho, media pe pabandi lagao. Save our youth",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "65",
+                "text_fragment": "Fahashi ki buniaad he yahi social media and electronic media hai.",
+                "technique": "Causal Oversimplification"
+            },
+            {
+                "start_index": "0",
+                "end_index": "132",
+                "text_fragment": "Fahashi ki buniaad he yahi social media and electronic media hai. Inn nojawanon ko iss fahashi se duur rakho, media pe pabandi lagao",
+                "technique": "Appeal to fear/prejudice"
+            },
+            {
+                "start_index": "0",
+                "end_index": "64",
+                "text_fragment": "Fahashi ki buniaad he yahi social media and electronic media hai",
+                "technique": "Smears"
+            },
+            {
+                "start_index": "134",
+                "end_index": "148",
+                "text_fragment": "Save our youth",
+                "technique": "Slogans"
+            }
+        ],
+        "translation": "The basis of obscenity is social media and electronic media. Keep these youth away from it, ban the media. Save our youth."
+    },
+    "143": {
+        "id": "143",
+        "text": "Biwi ho biwi ban ke raho, don't try to dominate over your husband by useless barking.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "24",
+                "text_fragment": "Biwi ho biwi ban ke raho",
+                "technique": "Thought-terminating clich\u00e9"
+            },
+            {
+                "start_index": "69",
+                "end_index": "84",
+                "text_fragment": "useless barking",
+                "technique": "Name calling/Labeling"
+            }
+        ],
+        "translation": "Be a wife, be a wife, don't try to dominate your husband by barking in vain."
+    },
+    "807": {
+        "id": "807",
+        "text": "Topi change hogi, fouj nai. Chief change hoga, policy nai. New government ajay gi, Power nai. Wake up Pakistan! we are still doomed.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "132",
+                "text_fragment": "Topi change hogi, fouj nai. Chief change hoga, policy nai. New government ajay gi, Power nai. Wake up Pakistan! we are still doomed.",
+                "technique": "Appeal to fear/prejudice"
+            },
+            {
+                "start_index": "0",
+                "end_index": "132",
+                "text_fragment": "Topi change hogi, fouj nai. Chief change hoga, policy nai. New government ajay gi, Power nai. Wake up Pakistan! we are still doomed.",
+                "technique": "Flag-waving"
+            },
+            {
+                "start_index": "125",
+                "end_index": "131",
+                "text_fragment": "doomed",
+                "technique": "Loaded Language"
+            }
+        ],
+        "translation": "The hat will change, army barber. The chief change will be, policy-wise. New Govt Ajay Ji, Power Nai. Wake up Pakistan! We are still doomed."
+    },
+    "540": {
+        "id": "540",
+        "text": "May God keep you safe Khan Sahab! May you recover soon. Hope all the people around are safe!",
+        "labels": [],
+        "translation": "Khan sir may God bless you! Get well soon. Hope everyone around is safe!"
+    },
+    "563": {
+        "id": "563",
+        "text": "Madam Netflix ka advertisement ap k PTcL ka bills ma ate hain us pa LgBt nahi ha? Ya tab ap ka zameer mar gya tha?\nAur rhi baat is movie ki to ap ne ye movie dekhi ha ya censors ne? Jab censor board ne allow kia ha to bakwas krne ki kia zaroorat ha",
+        "labels": [],
+        "translation": "madam netflix ad apk ptcl bills find us not lgbt? Or was your conscience killed?\nAnd speaking of the movie, have you seen the movie or is it not censored? What is the need for nonsense when the Censor Board has done what we have done"
+    },
+    "674": {
+        "id": "674",
+        "text": "Log are unhappy with their marriage because in the start wo fake good cheezain kehtay hain aik doosray in their relationship and then when they get tired of the fakeness tou mun nai lagatay aiik doosray ko.",
+        "labels": [
+            {
+                "start_index": "0",
+                "end_index": "206",
+                "text_fragment": "Log are unhappy with their marriage because in the start wo fake good cheezain kehtay hain aik doosray in their relationship and then when they get tired of the fakeness tou mun nai lagatay aiik doosray ko.",
+                "technique": "Causal Oversimplification"
+            }
+        ],
+        "translation": "Unhappy with login's marriage because in the beginning in their relationship they say fake nice things to each other and then when they get tired of the fakeness you don't like me to each other."
+    },
+    "216": {
+        "id": "216",
+        "text": "Jab shohar kaam se ghar aye toh aurat ko ghar mein mojood hona chahiye. What's the point of having a wife and still coming home to no one.",
+        "labels": [],
+        "translation": "When the city comes home from work, the woman should be present at home. What is the use of having a wife and still coming to someone's house?"
+    },
+    "561": {
+        "id": "561",
+        "text": "This is so stupid nd painful.\nMene phele bhi kaha tha k politicians ko koi farq nai parta apky marne jeene se.. \nwhy the hell are these are not thinking about their parents nd family.. this is so much terrible Bewaqoofi hai ye.",
+        "labels": [],
+        "translation": "It's so stupid and painful.\nI have said before that politicians don't care about your life.\nAfter all, why are these people not thinking about their parents and family.. This is very stupid of you."
+    },
+    "80": {
+        "id": "80",
+        "text": "Corona virus was released as a weapon of biological warfare. World population kam karne ke liye sab dhong kia gia hai.",
+        "labels": [],
+        "translation": "The coronavirus was released as a biological warfare weapon. The world's population is all pretended to work."
+    },
+    "942": {
+        "id": "942",
+        "text": "Auratein kamzor nahi hotin .To think calling Gautam an aurat is something derogatory, is extremely disappointing. Insult karna hai toh traits aur personality pe karo . Aurat kitni strong hoti hai woh toh aapke paidaish pe hi app ko pata hona chahiye. Ur mom is a woman",
+        "labels": [],
+        "translation": "And three are not weak. To think that calling Gautama a woman is an insult, is extremely disappointing. If you want to insult, do it on character and personality. How strong a woman is, the app should know from your sadness. Your mother is a woman."
+    },
+    "427": {
+        "id": "427",
+        "text": "These family planning ads on TV are so inappropriate. Kuch cheezain parde mein rehni chahiye.",
+        "labels": [],
+        "translation": "These family planning ads on TV are very inappropriate. Some things should be kept under wraps."
+    },
+    "564": {
+        "id": "564",
+        "text": "Sorry Baji, but Pakistan is an Islamic state and will always remain one. Pakistan doesn't support LGBT in any form. And don't come calling me a terrorist or similar crap, I never said we should harm anyone. Woh wala card mat use krna please.",
+        "labels": [],
+        "translation": "Sorry baji, but Pakistan is an Islamic state and will always be one. Pakistan does not support LGBT in any form. And don't call me a terrorist or some crap like that, I never said we should harm anyone. Please use the wow card mat."
+    },
+    "166": {
+        "id": "166",
+        "text": "Women these days treat their husbands as ATMs. Paisa poora chahiye lekin ghar ka kaam karne mein mot partee hai.",
+        "labels": [],
+        "translation": "Women these days think of their husbands as ATMs. Money should be paid, but doing housework is a death party."
+    },
+    "243": {
+        "id": "243",
+        "text": "Aurat ko chaar dewari mein rehna chahiye. When she steps out, she risks not only her dignity but her family's too.",
+        "labels": [],
+        "translation": "A woman should live in four walls. When she steps out, she risks not only her honor but also that of her family."
+    },
+    "686": {
+        "id": "686",
+        "text": "Aik Aurat March wala account hota tha....un ki taraf sy koi biyan shiyan ajj?",
+        "labels": [],
+        "translation": "There used to be a woman marching account....any statement from them?"
+    },
+    "475": {
+        "id": "475",
+        "text": "Indian students are bagging scholarships one after another. Aur Pakistani abhi tak ratta system se nhi nikal paa rhe hadd ho gayi.",
+        "labels": [],
+        "translation": "Indian students are getting one scholarship after another. And the Pakistanis were still not able to get out of the Rata system."
+    },
+    "560": {
+        "id": "560",
+        "text": "Donald Trump recognises Hindu Holocaust & Hinduphobia\n\n\u2022Rishi Sunak pledges to crack down on Pakistani grooming gangs.\n\n\u2022Mehbooba Mufti asked to vacate building occupied by her. \n\n\u2022Pakistan lost to India, Zimbabwe.\n\nAur kitne ache din chaiye haan bhai? Isse behtar kuch ho sakta hae?",
+        "labels": [],
+        "translation": "Donald Trump acknowledges Hindu Holocaust and Hinduphobia.\n\n\u2022Rishi Sink vows to crack down on Pakistani grooming gangs.\n\n\u2022 Mehbooba Mufti asked to vacate the building occupied by her.\n\n\u2022 Pakistan lost to India, Zimbabwe.\n\nHow much pain from tea Han brother? Can anything be better than that?"
+    },
+    "663": {
+        "id": "663",
+        "text": "Did I ask you to follow? Khud hi sawal kr rhi or khud hi jawab dy rahi ap.\nApna yeh slogan lay kr aurat march main launch kr do kuch innovation ho jaiy gi next march main",
+        "labels": [],
+        "translation": "Did I ask you to follow me? AP asking questions by itself or answering by itself.\nStart the women's march with this slogan and something will happen in the next march"
+    }
+}

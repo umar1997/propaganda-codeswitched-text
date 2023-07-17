@@ -1,0 +1,123 @@
+[WARNING] - META - domain_type: CS
+[WARNING] - META - model_run: BERT
+[WARNING] - META - model_type: bert-base-cased
+[WARNING] - META - tokenizer_type: bert-base-cased
+[WARNING] - META - training: True
+[WARNING] - META - max_seq_length: 256
+[WARNING] - META - random_seed: 42
+[WARNING] - META - training_batch_size: 16
+[WARNING] - META - validation_batch_size: 16
+[WARNING] - META - learning_rate: 3e-05
+[WARNING] - META - epsilon: 1e-08
+[WARNING] - META - weight_decay: 0.1
+[WARNING] - META - epochs: 10
+[WARNING] - META - scheduler: LinearWarmup
+[WARNING] - META - optimizer: AdamW
+[WARNING] - META - max_grad_norm: 1.0
+[WARNING] - META - full_finetuning: True
+[WARNING] - META - debugging: False
+[WARNING] - META - log_file: ./Log_Files/BERT-02-03-2023_17:08:51
+[WARNING] - META - datetime: 02-03-2023_17:08:51
+
+[WARNING] - META - Training Datatset: 786
+[WARNING] - META - Validation Datatset: 89
+[WARNING] - META - Testing Datatset: 155
+[WARNING] - META - Vocab Size: 28996
+
+[CRITICAL] - PORGRESS - 02-03-2023 17:08:57 - Model + Tokenizer Initialized
+[CRITICAL] - PORGRESS - 02-03-2023 17:08:57 - Tokenizing sentences and encoding labels
+[CRITICAL] - PORGRESS - 02-03-2023 17:08:57 - Data Loaders Created
+[CRITICAL] - PORGRESS - 02-03-2023 17:08:57 - Training Started
+[INFO] - RESULTS - training.py.<115> - Epoch #1
+[INFO] - RESULTS - training.py.<148> - Average Train Loss For Epoch 1: 0.36341966152191163
+[INFO] - RESULTS - training.py.<184> - Average Val Loss For Epoch 1: 0.3030897428592046
+[INFO] - RESULTS - training.py.<194> - Validation Hamming Score: 0.8921348314606742  |  Validation Exact Match Ratio: 0.056179775280898875
+[INFO] - RESULTS - training.py.<206> - Duration: 13.512518167495728
+
+[INFO] - RESULTS - training.py.<115> - Epoch #2
+[INFO] - RESULTS - training.py.<148> - Average Train Loss For Epoch 2: 0.25158726394176484
+[INFO] - RESULTS - training.py.<184> - Average Val Loss For Epoch 2: 0.3070673694213231
+[INFO] - RESULTS - training.py.<194> - Validation Hamming Score: 0.8910112359550562  |  Validation Exact Match Ratio: 0.07865168539325842
+[INFO] - RESULTS - training.py.<206> - Duration: 13.155587911605835
+
+[INFO] - RESULTS - training.py.<115> - Epoch #3
+[INFO] - RESULTS - training.py.<148> - Average Train Loss For Epoch 3: 0.19202435314655303
+[INFO] - RESULTS - training.py.<184> - Average Val Loss For Epoch 3: 0.320659061272939
+[INFO] - RESULTS - training.py.<194> - Validation Hamming Score: 0.895505617977528  |  Validation Exact Match Ratio: 0.07865168539325842
+[INFO] - RESULTS - training.py.<206> - Duration: 13.350456714630127
+
+[INFO] - RESULTS - training.py.<115> - Epoch #4
+[INFO] - RESULTS - training.py.<148> - Average Train Loss For Epoch 4: 0.12973755970597267
+[INFO] - RESULTS - training.py.<184> - Average Val Loss For Epoch 4: 0.3516058524449666
+[INFO] - RESULTS - training.py.<194> - Validation Hamming Score: 0.8932584269662921  |  Validation Exact Match Ratio: 0.0449438202247191
+[INFO] - RESULTS - training.py.<206> - Duration: 13.374498128890991
+
+[INFO] - RESULTS - training.py.<115> - Epoch #5
+[INFO] - RESULTS - training.py.<148> - Average Train Loss For Epoch 5: 0.08014234349131584
+[INFO] - RESULTS - training.py.<184> - Average Val Loss For Epoch 5: 0.41670677562554675
+[INFO] - RESULTS - training.py.<194> - Validation Hamming Score: 0.8921348314606742  |  Validation Exact Match Ratio: 0.06741573033707865
+[INFO] - RESULTS - training.py.<206> - Duration: 13.502955198287964
+
+[INFO] - RESULTS - training.py.<115> - Epoch #6
+[INFO] - RESULTS - training.py.<148> - Average Train Loss For Epoch 6: 0.0440080526098609
+[INFO] - RESULTS - training.py.<184> - Average Val Loss For Epoch 6: 0.4977211405833562
+[INFO] - RESULTS - training.py.<194> - Validation Hamming Score: 0.8938202247191012  |  Validation Exact Match Ratio: 0.06741573033707865
+[INFO] - RESULTS - training.py.<206> - Duration: 13.563308000564575
+
+[INFO] - RESULTS - training.py.<115> - Epoch #7
+[INFO] - RESULTS - training.py.<148> - Average Train Loss For Epoch 7: 0.028600134160369634
+[INFO] - RESULTS - training.py.<184> - Average Val Loss For Epoch 7: 0.5631189346313477
+[INFO] - RESULTS - training.py.<194> - Validation Hamming Score: 0.8865168539325843  |  Validation Exact Match Ratio: 0.033707865168539325
+[INFO] - RESULTS - training.py.<206> - Duration: 13.611503839492798
+
+[INFO] - RESULTS - training.py.<115> - Epoch #8
+[INFO] - RESULTS - training.py.<148> - Average Train Loss For Epoch 8: 0.017565296990796925
+[INFO] - RESULTS - training.py.<184> - Average Val Loss For Epoch 8: 0.5583791136741638
+[INFO] - RESULTS - training.py.<194> - Validation Hamming Score: 0.8910112359550562  |  Validation Exact Match Ratio: 0.056179775280898875
+[INFO] - RESULTS - training.py.<206> - Duration: 14.326512813568115
+
+[INFO] - RESULTS - training.py.<115> - Epoch #9
+[INFO] - RESULTS - training.py.<148> - Average Train Loss For Epoch 9: 0.011584849348291754
+[INFO] - RESULTS - training.py.<184> - Average Val Loss For Epoch 9: 0.5832063605388006
+[INFO] - RESULTS - training.py.<194> - Validation Hamming Score: 0.8943820224719101  |  Validation Exact Match Ratio: 0.056179775280898875
+[INFO] - RESULTS - training.py.<206> - Duration: 14.577382326126099
+
+[INFO] - RESULTS - training.py.<115> - Epoch #10
+[INFO] - RESULTS - training.py.<148> - Average Train Loss For Epoch 10: 0.009023959198966622
+[INFO] - RESULTS - training.py.<184> - Average Val Loss For Epoch 10: 0.60260009765625
+[INFO] - RESULTS - training.py.<194> - Validation Hamming Score: 0.8926966292134831  |  Validation Exact Match Ratio: 0.056179775280898875
+[INFO] - RESULTS - training.py.<206> - Duration: 14.158421754837036
+
+[INFO] - RESULTS - training.py.<215> - Validation Hamming Score: 0.8926966292134831  |  Validation Exact Match Ratio: 0.056179775280898875
+[INFO] - RESULTS - training.py.<216> - Classification Report:
+[INFO] - RESULTS - training.py.<217> - 
+                                                     precision    recall  f1-score   support
+
+                                    Loaded Language       0.57      0.60      0.59        40
+      Obfuscation, Intentional vagueness, Confusion       0.00      0.00      0.00         1
+                           Appeal to fear/prejudice       0.50      0.11      0.18         9
+                                Appeal to authority       0.00      0.00      0.00         1
+                                       Whataboutism       0.00      0.00      0.00         3
+                                            Slogans       0.00      0.00      0.00         3
+                          Exaggeration/Minimisation       0.50      0.33      0.40        30
+               Black-and-white Fallacy/Dictatorship       0.50      0.33      0.40         3
+                                             Smears       0.54      0.38      0.44        40
+                                              Doubt       0.00      0.00      0.00         3
+                                          Bandwagon       0.00      0.00      0.00         1
+                              Name calling/Labeling       0.50      0.46      0.48        37
+                               Reductio ad hitlerum       0.00      0.00      0.00         0
+           Presenting Irrelevant Data (Red Herring)       0.00      0.00      0.00         5
+                                         Repetition       0.00      0.00      0.00         1
+Misrepresentation of Someone's Position (Straw Man)       0.00      0.00      0.00         2
+                         Thought-terminating cliché       0.50      0.25      0.33         4
+                   Glittering generalities (Virtue)       0.00      0.00      0.00         4
+                                        Flag-waving       0.00      0.00      0.00         3
+                          Causal Oversimplification       0.00      0.00      0.00         8
+
+                                          micro avg       0.53      0.35      0.42       198
+                                          macro avg       0.18      0.12      0.14       198
+                                       weighted avg       0.43      0.35      0.38       198
+                                        samples avg       0.46      0.33      0.37       198
+
+[CRITICAL] - PORGRESS - 02-03-2023 17:11:16 - Training Finished
+[CRITICAL] - PORGRESS - 02-03-2023 17:11:16 - Model Saved
