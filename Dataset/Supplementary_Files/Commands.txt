@@ -1,4 +1,0 @@
-kill $(lsof -t -i:8089)
-jupyter notebook --ip 0.0.0.0 --no-browser --port=8089
-
-nvidia-smi | grep 'python' | awk '{ print $5 }' | xargs -n1 kill -9
