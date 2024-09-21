@@ -6,10 +6,9 @@
 [Shady Shehata](https://scholar.google.com/citations?hl=en&user=osOiYvYAAAAJ)
 and [Preslav Nakov](https://scholar.google.com/citations?hl=en&user=DfXsKZ4AAAAJ)
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2305.14534)
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://aclanthology.org/2023.emnlp-main.1044.pdf)
 [![poster](https://img.shields.io/badge/Presentation-Poster-F9D371)](https://github.com/umar1997/propaganda-codeswitched-text/tree/main/Media/Poster.pdf)
 [![slides](https://img.shields.io/badge/Presentation-Slides-B762C1)](https://github.com/umar1997/propaganda-codeswitched-text/tree/main/Media/Slides.pdf)
-
 
 <hr />
 
@@ -28,7 +27,39 @@ and [Preslav Nakov](https://scholar.google.com/citations?hl=en&user=DfXsKZ4AAAAJ
 3. **Evaluating different NLP Models:** We experiment with various model classes, including monolingual, multilingual, crosslingual models, and Large Language Models (LLMs), for this task and dataset and we provide a comparative performance analysis.
 4. **Developed a Web-based Platform:** We design and create a new website platform with a user interface to  annotate spans of text and label them as different propaganda techniques.
 
+<hr />
 
+## Citation
+If you find our work, this repository useful, please consider giving a star :star: and citation.
+```bibtex
+@article{salman2023detecting,
+  title={Detecting Propaganda Techniques in Code-Switched Social Media Text},
+  author={Salman, Muhammad Umar and Hanif, Asif and Shehata, Shady and Nakov, Preslav},
+  journal={arXiv preprint arXiv:2305.14534},
+  year={2023}
+}
+```
+```bibtex
+@inproceedings{salman-etal-2023-detecting,
+    title = "Detecting Propaganda Techniques in Code-Switched Social Media Text",
+    author = "Salman, Muhammad  and
+      Hanif, Asif  and
+      Shehata, Shady  and
+      Nakov, Preslav",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.emnlp-main.1044",
+    doi = "10.18653/v1/2023.emnlp-main.1044",
+    pages = "16794--16812",
+    abstract = "Propaganda is a form of communication intended to influence the opinions and the mindset of the public to promote a particular agenda. With the rise of social media, propaganda has spread rapidly, leading to the need for automatic propaganda detection systems. Most work on propaganda detection has focused on high-resource languages, such as English, and little effort has been made to detect propaganda for low-resource languages. Yet, it is common to find a mix of multiple languages in social media communication, a phenomenon known as code-switching. Code-switching combines different languages within the same text, which poses a challenge for automatic systems. Considering this premise, we propose a novel task of detecting propaganda techniques in code-switched text. To support this task, we create a corpus of 1,030 texts code-switching between English and Roman Urdu, annotated with 20 propaganda techniques at fragment-level. We perform a number of experiments contrasting different experimental setups, and we find that it is important to model the multilinguality directly rather than using translation as well as to use the right fine-tuning strategy. We plan to publicly release our code and dataset.",
+}
+```
 <hr />
 
 ## Contact
